@@ -1,0 +1,574 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Global Processes</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>18d35b60-1497-4a3c-832c-ceedc0fa1183</md:uuid>
+</metadata>
+
+  <content>
+    <section id="sect1">
+      <title>Atmosphere and Climate Regulation</title>
+      
+      <para id="atmospara1">Life on earth plays a critical role in
+      regulating the earth's physical, chemical, and
+      geological properties, from influencing the chemical composition
+      of the atmosphere to modifying climate.  </para> 
+
+      <para id="atmospara2">About 3.5 billion years ago, early life
+      forms (principally cyanobacteria) helped create an oxygenated
+      atmosphere through photosynthesis, taking up carbon dioxide from
+      the atmosphere and releasing oxygen (<cite target-id="Schopf"><cite-title>Schopf
+      1983</cite-title></cite>; <cite target-id="VanValen"><cite-title>Van Valen 1971</cite-title></cite>).  Over
+      time, these organisms altered the composition of the atmosphere,
+      increasing oxygen levels, and paved the way for organisms that
+      use oxygen as an energy source (aerobic respiration), forming an
+      atmosphere similar to that existing today. </para>
+
+      <para id="atmospara3">Carbon cycles on the planet between the
+      land, atmosphere, and oceans through a combination of physical,
+      chemical, geological, and biological processes (<cite target-id="IPCC"><cite-title>IPCC 2001</cite-title></cite>). One key way biodiversity
+      influences the composition of the earth's atmosphere is through
+      its role in carbon cycling in the oceans, the largest reservoir
+      for carbon on the planet (<cite target-id="GruberandSarmiento"><cite-title>Gruber
+      and Sarmiento</cite-title></cite>, in press). In turn, the atmospheric
+      composition of carbon influences climate. Phytoplankton (or
+      microscopic marine plants) play a central role in regulating
+      atmospheric chemistry by transforming carbon dioxide into
+      organic matter during photosynthesis.  This carbon-laden organic
+      matter settles either directly or indirectly (after it has been
+      consumed) in the deep ocean, where it stays for centuries, or
+      even thousands of years, acting as the major reservoir for
+      carbon on the planet. In addition, carbon also reaches the deep
+      ocean through another biological process -- the formation of
+      calcium carbonate, the primary component of the shells in two
+      groups of marine organisms coccolithophorids (a phytoplankton)
+      and foraminifera (a single celled, shelled organism that is
+      abundant in many marine environments). When these organisms die,
+      their shells sink to the bottom or dissolve in the water column.
+      This movement of carbon through the oceans removes excess carbon
+      from the atmosphere and regulates the earth's climate. </para>
+      
+      <para id="atmospara4">Over the last century, humans have changed
+      the atmosphere's composition by releasing large amounts of
+      carbon dioxide.  This excess carbon dioxide, along with other
+      'greenhouse' gases, is believed to be heating up our atmosphere
+      and changing the world's climate, leading to 'global
+      warming'. There has been much debate about how natural
+      processes, such as the cycling of carbon through phytoplankton
+      in the oceans, will respond to these changes. Will phytoplankton
+      productivity increase and thereby absorb the extra carbon from
+      the atmosphere? Recent studies suggest that natural processes
+      may slow the rate of increase of carbon dioxide in the
+      atmosphere, but it is doubtful that either the earth's oceans or
+      its forests can absorb the entirety of the extra carbon released
+      by human activity (<cite target-id="Falkowski"><cite-title>Falkowski <foreign>et
+      al</foreign>. 2000</cite-title></cite>).</para>
+    </section>
+    
+    <section id="sect2">
+      <title>Land Use Change and Climate Regulation</title>
+
+      <para id="landpara1">The energy source that ultimately drives
+	  the earth's climate is the sun.  The amount of
+	  solar radiation absorbed by the earth depends primarily on
+	  the characteristics of the surface. Although the link
+	  between solar absorption, thermodynamics, and ultimately
+	  climate is very complex, newer studies indicate that
+	  vegetation cover and seasonal variation in vegetation cover
+	  affects climate on both global and local scales. New
+	  generations of atmospheric circulation models are
+	  increasingly able to incorporate more complex data related
+	  to these parameters (<cite target-id="Sellers"><cite-title>Sellers <foreign>et
+	  al</foreign>. 1997</cite-title></cite>). Besides regulating the
+	  atmosphere's composition, the extent and
+	  distribution of different types of vegetation over the globe
+	  modifies climate in three main ways: 
+	
+	<list id="list1" list-type="bulleted"> 
+
+	  <item>affecting the reflectance of sunlight (<term>radiation
+	  balance</term>);</item>
+
+	  <item>regulating the release of water vapor
+	  (<term>evapotranspiration</term>); and</item>
+	  
+	  <item>changing wind patterns and moisture loss
+	  (<term>surface roughness</term>).</item>
+	</list>
+
+	The amount of solar radiation reflected by a surface is known
+	as its <term target-id="albedo">albedo</term>; surfaces with low
+	albedo reflect a small amount of sunlight, those with high
+	albedo reflect a large amount.  Different types of
+	vegetation have different albedos; forests typically have
+	low albedo, whereas deserts have high albedo.  Deciduous
+	forests are a good example of the seasonal relationship
+	between vegetation and radiation balance.  In the summer,
+	the leaves in deciduous forests absorb solar radiation
+	through photosynthesis; in winter, after their leaves have
+	fallen, deciduous forests tend to reflect more radiation.
+	These seasonal changes in vegetation modify climate in
+	complex ways, by changing evapotranspiration rates and
+	albedo (<cite target-id="IPCC"><cite-title>IPCC 2001</cite-title></cite>).</para>
+      
+      <para id="landpara2">Vegetation absorbs water from the soil and
+	releases it back into the atmosphere through <term target-id="evapotranspiration">evapotranspiration</term>, which is
+	the major pathway by which water moves from the soil to the
+	atmosphere. This release of water from vegetation cools the
+	air temperature.  In the Amazon region, vegetation and climate
+	is tightly coupled; evapotranspiration of plants is believed
+	to contribute an estimated fifty percent of the annual
+	rainfall (<cite target-id="Salati"><cite-title>Salati
+	1987</cite-title></cite>). Deforestation in this region leads to a complex
+	feedback mechanism, reducing evapotranspiration rates, which
+	leads to decreased rainfall and increased vulnerability to
+	fire (<cite target-id="LauranceandWilliamson"><cite-title>Laurance and
+	Williamson 2001</cite-title></cite>).  </para>
+      
+      <para id="landpara3">Deforestation also influences the climate
+	of cloud forests in the mountains of Costa Rica.  The
+	Monteverde Cloud Forest harbors a rich diversity of organisms,
+	many of which are found nowhere else in the world.  However,
+	deforestation in lower-lying lands, even regions over 50
+	kilometers way, is changing the local climate, leaving the
+	"cloud" forest cloudless (<cite target-id="Lawton"><cite-title>Lawton
+	<foreign>et al</foreign>. 2001</cite-title></cite>).  As winds pass over
+	deforested lowlands, clouds are lifted higher, often above the
+	mountaintops, reducing the ability for cloud forests to form.
+	Removing the clouds from a cloud forest dries the forest, so
+	it can no longer support the same vegetation or provide
+	appropriate habitat for many of the species originally found
+	there.  Similar patterns may be occurring in other, less
+	studied montane cloud forests around the world.</para>
+      
+      <para id="landpara4">Different vegetation types and topographies
+	have varying <term target-id="surface">surface roughness</term>,
+	which change the flow of winds in the lower atmosphere and in
+	turn influences climate.  Lower surface roughness also tends
+	to reduce surface moisture and increase evaporation.  Farmers
+	apply this knowledge when they plant trees to create
+	windbreaks (<cite target-id="Johnson"><cite-title>Johnson <foreign>et
+	al</foreign>. 2003</cite-title></cite>). Windbreaks reduce wind speed and
+	change the microclimate, increase surface roughness, reduce
+	soil erosion, and modify temperature and humidity. For many
+	field crops, windbreaks increase yields and production
+	efficiency. They also minimize stress on livestock from cold
+	winds. </para>
+
+    </section>
+    <section id="sect3">
+      <title>Soil and Water Conservation</title>
+
+      <para id="soilpara1">Biodiversity is also important for global
+      soil and water protection.  Terrestrial vegetation in forests
+      and other upland habitats maintain water quality and quantity,
+      and controls soil erosion.  </para>
+      
+      <para id="soilpara2">In <term target-id="watersheds">watersheds</term> where vegetation has been
+      removed, flooding prevails in the wet season and drought in the
+      dry season. Soil erosion is also more intense and rapid, causing
+      a double effect: removing nutrient-rich topsoil and leading to
+      siltation in downstream riverine and ultimately oceanic
+      environments. This siltation harms riverine and coastal
+      fisheries as well as damaging coral reefs (<cite target-id="TurnerandRabalais"><cite-title>Turner and Rabalais 1994</cite-title></cite>; <cite target-id="VanKatwijk"><cite-title>van Katwijk <foreign>et
+      al</foreign>. 1993</cite-title></cite>).</para>
+      
+      <para id="soilpara3">One of the most productive ecosystems on
+      earth, <term target-id="wetlands">wetlands</term> have water present
+      at or near the surface of the soil or within the root zone, all
+      year or for a period of time during the year, and the vegetation
+      there is adapted to these conditions. Wetlands are instrumental
+      for the maintenance of clean water and erosion control. Microbes
+      and plants in wetlands absorb nutrients and in the process
+      filter and purify water of pollutants before they can enter
+      coastal or other aquatic ecosystems. </para>
+      
+      <para id="soilpara4">Wetlands also reduce flood, wave, and wind
+      damage. They retard the flow of floodwaters and accumulate
+      sediments that would otherwise be carried downstream or into
+      coastal areas. Wetlands also serve as breeding grounds and
+      nurseries for fish and support thousands of bird and other
+      animal species.</para>
+    </section>
+    <section id="sect4">
+      <title>Nutrient Cycling</title>
+      
+      <para id="nutpara1">Nutrient cycling is yet another critical
+      service provided by biodiversity -- particularly by
+      microorganisms.  Fungi and other microorganisms in soil help
+      break down dead plants and animals, eventually converting this
+      organic matter into nutrients that enrich the soil (<cite target-id="Pimentel"><cite-title>Pimentel <foreign>et al</foreign>. 1995</cite-title></cite>).
+      </para>
+      
+      <para id="nutpara2">Nitrogen is essential for plant growth, and
+      an insufficient quantity of it limits plant production in both
+      natural and agricultural ecosystems.  While nitrogen is abundant
+      in the atmosphere, only a few organisms (commonly known as
+      nitrogen-fixing bacteria) can use it in this
+      form. Nitrogen-fixing bacteria extract nitrogen from the air,
+      and transform it into ammonia, then other bacteria further break
+      down this ammonia into nitrogenous compounds that can be
+      absorbed and used by most plants. In addition to their role in
+      decomposition and hence nutrient cycling, microorganisms also
+      help detoxify waste, changing waste products into forms less
+      harmful to humans.</para>
+    </section>
+    <section id="sect5">
+      <title>Pollination and Seed Dispersal</title>
+      
+      <para id="pollpara1">An estimated 90 percent of flowering plants
+      depend on pollinators such as wasps, birds, bats, and bees, to
+      reproduce. Plants and their pollinators are increasingly
+      threatened around the world (<cite target-id="BuchmannandNabhan"><cite-title>Buchmann and Nabhan 1995</cite-title></cite>; <cite target-id="KremenandRicketts"><cite-title>Kremen and Ricketts 2000</cite-title></cite>).
+      Pollination is critical to most major crops and virtually
+      impossible to replace. For instance, imagine how costly fruit
+      would be (and how little would be available) if its natural
+      pollinators no longer existed and each developing flower had to
+      be fertilized by hand. </para>
+      
+      <para id="pollpara2">Many animal species are important
+      dispersers of plant seeds. It has been hypothesized that the
+      loss of a seed disperser could cause a plant to become extinct.
+      At present, there is no example where this has occurred.  A
+      famous example that has often been cited previously is the case
+      of the dodo (<foreign>Raphus cucullatus</foreign>) and the
+      tambalacoque (<foreign>Sideroxylon grandiflorum</foreign>). The
+      dodo, a large flightless bird that inhabited the island of
+      Mauritius in the Indian Ocean, became extinct due to overhunting
+      in the late seventeenth century.  It was once thought that the
+      tambalacoque, a now endangered tree, depended upon the dodo to
+      germinate its hard-cased seeds (<cite target-id="Temple"><cite-title>Temple
+      1977</cite-title></cite>).  In the 1970s, only 13 trees remained and it was
+      thought the tree had not reproduced for 300 years.  The seeds of
+      the tree have a very hard coat, as an experiment they were fed
+      to a turkey; after passing through its gizzard the seeds were
+      viable and germinated.  This experiment led scientists to
+      believe that the extinction of the dodo was coupled to the
+      tambalacoque's inability to reproduce. However, this hypothesis
+      has not stood up to further scrutiny, as there were several
+      other species (including three now extinct species, a
+      large-billed parrot, a giant tortoise, and a giant lizard) that
+      were also capable of cracking the seed (<cite target-id="WitmarandCheke"><cite-title>Witmar and Cheke 1991</cite-title></cite>; <cite target-id="Catling"><cite-title>Catling 2001</cite-title></cite>). Thus many factors,
+      including the loss of the dodo, could have contributed to the
+      decline of the tambalacoque. (For further details of causes of
+      extinction see Historical Perspectives on Extinction and the
+      Current Biodiversity Crisis). Unfortunately, declines and/or
+      extinctions of species are often unobserved and thus it is
+      difficult to tease out the cause of the end result, as multiple
+      factors are often operating simultaneously. Similar problems
+      exist today in understanding current population declines. For
+      example, in a given species, population declines may be caused
+      by loss of habitat, loss in prey species or loss of predators, a
+      combination of these factors, or possibly some other yet
+      unidentified cause, such as disease.</para>
+      
+      <para id="pollpara3">In the pine forests of western North
+      America, corvids (including jays, magpies, and crows),
+      squirrels, and bears play a role in seed dispersal. The Clark's
+      nutcracker (<foreign>Nucifraga columbiana</foreign>) is
+      particularly well adapted to dispersal of whitebark pine
+      (<foreign>Pinus albicaulis</foreign>) seeds (<cite target-id="Lanner"><cite-title>Lanner 1996</cite-title></cite>). The nutcracker removes the
+      wingless seeds from the cones, which otherwise would not open on
+      their own.  Nutcrackers hide the seeds in clumps.  When the
+      uneaten seeds eventually grow, they are clustered, accounting
+      for the typical distribution pattern of whitebark pine in the
+      forest.</para>
+      
+      <para id="pollpara4">In tropical areas, large mammals and
+      frugivorous birds play a key role in dispersing the seeds of
+      trees and maintaining tree diversity over large areas.  For
+      example, three-wattled bellbirds (<foreign>Procnias
+      tricarunculata</foreign>) are important dispersers of tree seeds
+      of members of the Lauraceae family in Costa Rica.  Because
+      bellbirds return again and again to one or more favorite
+      perches, they take the fruit and its seeds away from the parent
+      tree, spreading Lauraceae trees throughout the forest (<cite target-id="WennyandLevy"><cite-title>Wenny and Levy 1998</cite-title></cite>).  </para>
+      
+    </section>
+  </content>
+  <glossary id="glossary1">
+    <definition id="albedo">
+      <term>albedo</term>
+      <meaning id="idp888576">the amount of solar radiation reflected by a surface</meaning>
+    </definition>
+    <definition id="evapotranspiration">
+      <term>evapotranspiration</term>
+    
+      <meaning id="idp3225440">is the process whereby water is absorbed from soil by
+      vegetation and then released back into the atmosphere</meaning>
+    
+    </definition>
+    <definition id="surface">
+      <term>surface roughness</term>
+      
+      <meaning id="idm86912">the average vertical relief and small-scale
+      irregularities of a surface</meaning>
+    
+    </definition>
+    <definition id="watersheds">
+      <term>watersheds</term>
+      <meaning id="idm6897680">land areas drained by a river and its tributaries</meaning>
+    </definition>
+    <definition id="wetlands">
+      <term>wetlands</term>
+      
+      <meaning id="idm7373056">areas where water is present at or near the surface of
+      the soil or within the root zone, all year or for a period of
+      time during the year, and where the vegetation is adapted to
+      these conditions</meaning>
+    
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="Schopf">
+      <bib:book>
+	<bib:editor>Schopf, J.W.</bib:editor>
+	<bib:title>Earth's Earliest Biosphere. Its Origin and Evolution</bib:title>
+	<bib:publisher>Princeton Univ. Press</bib:publisher>
+	<bib:year>1983</bib:year>
+	<bib:address>Princeton, New Jersey, U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="VanValen">
+      <bib:article>
+	<bib:author>Van Valen, L.</bib:author>
+	<bib:title>The history and stability of atmospheric oxygen</bib:title>
+	<bib:journal>Science</bib:journal>
+	<bib:year>1971</bib:year>
+	<bib:volume>171</bib:volume>
+	<bib:pages>439-443</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="IPCC">
+      <bib:misc>
+	<bib:author>Intergovernmental Panel on Climate Change (IPCC)</bib:author>
+	<bib:title>Chapter One Introduction to the Climate System</bib:title>
+	<bib:year>2001</bib:year>
+	<bib:note>in Climate Change 2001: The Scientific Basis,
+	Working Group I: The Scientific Basis, Intergovernmental Panel
+	on Climate Change, United Nations Environmental Programme
+	(UNEP), World Meteorological Organization (WMO). Available
+	from: http://www.grida.no/climate/ipcc_tar/twg/wg1/040.htm
+	(Accessed on April 15, 2003). Reports available in Arabic,
+	Russian, and Spanish.</bib:note>
+      </bib:misc>
+    </bib:entry>
+    <bib:entry id="GruberandSarmiento">
+      <bib:inbook>
+	<bib:author>Gruber, N. and J.L. Sarmiento</bib:author>
+	<bib:title>Carbon Cycling in Ocean Biogeochemical Dynamics</bib:title>
+	<bib:chapter>Chapter 8</bib:chapter>
+	<bib:publisher>Princeton University Press</bib:publisher>
+	<bib:year/>
+	<bib:address>Princeton, New Jersey, U.S.A.</bib:address>
+	<bib:note>in press. Available from:
+	http://atmos.ucla.edu/~gruber/teaching/teaching_fr_syllabus_as235.htm
+	(Accessed on April 15, 2003)</bib:note>
+      </bib:inbook>
+    </bib:entry>
+    <bib:entry id="Falkowski">
+      <bib:article>
+	<bib:author>Falkowski, P. et al.</bib:author>
+
+	<bib:title>The global carbon cycle: A test of our knowledge of
+	earth as a system</bib:title>
+	<bib:journal>Science</bib:journal>
+	<bib:year>2000</bib:year>
+	<bib:volume>290</bib:volume>
+	<bib:pages>291-296</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="Sellers">
+      <bib:article>
+
+	<bib:author>Sellers, P.J., R.E. Dickinson, D.A. Randall,
+	A.K. Betts, F.G. Hall, J.A. Berry, G.J. Collatz, A.S. Denning,
+	H.A. Mooney, C.A. Nobre, N. Sato, C.B. Field,
+	A. Henderson-Sellers</bib:author>
+
+	<bib:title>Modeling the exchanges of energy, water, and carbon
+	between continents and the atmoshpere</bib:title>
+
+	<bib:journal>Science</bib:journal>
+	<bib:year>1997</bib:year>
+	<bib:volume>275</bib:volume>
+	<bib:pages>502-509</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="Salati">
+      <bib:incollection>
+	<bib:author>Salati, E.</bib:author>
+	<bib:title>The forest and the hydrological cycle</bib:title>
+	<bib:booktitle>The Geophysiology of Amazonia</bib:booktitle>
+	<bib:publisher>John Wiley and Sons</bib:publisher>
+	<bib:year>1987</bib:year>
+	<bib:editor>Dickenson, R.</bib:editor>
+	<bib:pages>273-294</bib:pages>
+	<bib:address>New York, New York, U.S.A.</bib:address>
+      </bib:incollection>
+    </bib:entry>
+    <bib:entry id="LauranceandWilliamson">
+      <bib:article>
+	<bib:author>Laurance, W.F. and Williamson, G.B.</bib:author>
+
+	<bib:title>Positive Feedbacks among Forest Fragmentation,
+	Drought, and Climate Change in the Amazon</bib:title>
+
+	<bib:journal>Conservation Biology</bib:journal>
+	<bib:year>2001</bib:year>
+	<bib:volume>15</bib:volume>
+	<bib:pages>1529-1535</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="Lawton">
+      <bib:article>
+	<bib:author>Lawton, R.O., U.S. Nair, R.A. Pielke Sr., and
+	R.M. Welch</bib:author>
+
+	<bib:title>Climatic impact of tropical lowland deforestation
+	on nearby montane cloud forests</bib:title>
+	<bib:journal>Science</bib:journal>
+	<bib:year>2001</bib:year>
+	<bib:volume>294</bib:volume> 
+	<bib:pages>584-587</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="Johnson">
+      <bib:misc>
+	<bib:author>Johnson, R.J., M.M. Beck and
+	J.R. Brandle</bib:author> 
+	<bib:title>Windbreaks and Wildlife</bib:title>
+	<bib:year>2003</bib:year> 
+	<bib:note>University of Nebraska Extension,
+	No. EC91-1771-B. Available from:
+	http:www.ianr.unl.edu/pubs/forestry/ec1771.htm (Accessed on
+	April 16, 2003)</bib:note>
+      </bib:misc>
+    </bib:entry>
+    <bib:entry id="TurnerandRabalais">
+      <bib:article>
+	<bib:author>Turner, R.E. and N.N. Rabalais</bib:author>
+
+	<bib:title>Coastal eutrophication near the Mississippi river
+	delta</bib:title> 
+	<bib:journal>Nature</bib:journal>
+	<bib:year>1994</bib:year>
+	<bib:volume>368</bib:volume> 
+	<bib:pages>619-621</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="VanKatwijk">
+      <bib:article>
+	<bib:author>Van Katwijk, M.N., N.F. Meier, R. van Loon,
+	E.M. van Hove, W. B.J.T. Giesen, G. van der Velde, and C. den
+	Hartog</bib:author>
+
+	<bib:title>Sabaki river sediment load and coral stress:
+	correlation between sediments and condition of the
+	Malindi-Watamu reefs in Kenya (Indian Ocean)</bib:title>
+ 
+	<bib:journal>Marine Biology</bib:journal>
+	<bib:year>1993</bib:year>
+	<bib:volume>117</bib:volume> 
+	<bib:pages>439-443</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="Pimentel">
+      <bib:article>
+	<bib:author>Pimental, D., C. Harvery, P. Resosudarmo,
+	K. Sinclair, D. Kurz, M. McNair, S. Crist, L. Shpritz,
+	L. Fitton, R. Saffouri, and R. Blair</bib:author>
+
+	<bib:title>Environmental and economic costs of soil erosion
+	and conservation benefits</bib:title>
+ 
+	<bib:journal>Science</bib:journal>
+	<bib:year>1995</bib:year>
+	<bib:volume>267</bib:volume> 
+	<bib:pages>1117-1123</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="BuchmannandNabhan">
+      <bib:book>
+	<bib:author>Buchmann, S.L. and G.P. Nabhan</bib:author>
+	<bib:title>The Forgotten Pollinators</bib:title>
+	<bib:publisher>Island Press</bib:publisher>
+	<bib:year>1995</bib:year>
+	<bib:address>Washington, D.C., U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="KremenandRicketts">
+      <bib:article>
+	<bib:author>Kremen, C. and T. Ricketts</bib:author>
+	<bib:title>Global perspectives on pollination disruptions</bib:title>
+	<bib:journal>Conservation Biology</bib:journal>
+	<bib:year>2000</bib:year>
+	<bib:volume>14</bib:volume>
+	<bib:pages>1226-1228</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="Temple">
+      <bib:article>
+	<bib:author>Temple, S.A.</bib:author>
+
+	<bib:title>Plant-animal mutualism: Co-evolution with the Dodo
+	leads to near extinction of plant</bib:title>
+	<bib:journal>Science</bib:journal>
+	<bib:year>1977</bib:year>
+	<bib:volume>197</bib:volume>
+	<bib:pages>885-886</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="WitmarandCheke">
+      <bib:article>
+	<bib:author>Witmer, M.C. and A.S. Cheke</bib:author>
+
+	<bib:title>The dodo and the tambalacoque tree: an obligate
+	mutualism reconsidered</bib:title>
+	<bib:journal>Oikos</bib:journal>
+	<bib:year>1991</bib:year>
+	<bib:volume>61</bib:volume>
+	<bib:pages>133-137</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="Catling">
+      <bib:article>
+	<bib:author>Catling, P.M.</bib:author>
+
+	<bib:title>Extinction and the importance of history and
+	dependence in conservation</bib:title>
+	<bib:journal>Biodiversity</bib:journal>
+	<bib:year>2001</bib:year>
+	<bib:volume>2</bib:volume>
+	<bib:number>3</bib:number>
+	<bib:pages>1-13</bib:pages>
+
+	<bib:note>Available from:
+	http://www.tc-biodiversity.org/sample-extinction.pdf (Accessed
+	on March 4, 2003)</bib:note>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="Lanner">
+      <bib:book>
+	<bib:author>Lanner, R.M.</bib:author>
+	<bib:title>Made for Each Other: A symbiosis of Birds and Pines</bib:title>
+	<bib:publisher>Oxford University Press</bib:publisher>
+	<bib:year>1996</bib:year>
+	<bib:address>New York, New York, U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="WennyandLevy">
+      <bib:article>
+	<bib:author>Wenny, D.G. and D.J. Levy</bib:author>
+
+	<bib:title>Directed seec dispercal by bellbirds in a torpical
+	cloud forest</bib:title>
+	<bib:journal>Proceedings of the National Academy of Sciences</bib:journal>
+	<bib:year>1998</bib:year>
+	<bib:volume>95</bib:volume>
+	<bib:pages>6204-6207</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+    
+    
+</document>

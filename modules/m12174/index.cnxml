@@ -1,0 +1,928 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Species Diversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6f5579c3-5c14-4674-bc17-1e6aad41b404</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      Strictly speaking, <term target-id="speciesdiv">species
+      diversity</term> is the number of different species in a
+      particular area (<term target-id="speciesrich">species
+      richness</term>) weighted by some measure of abundance such as
+      number of individuals or biomass. However, it is common for
+      conservation biologists to speak of species diversity even when
+      they are actually referring to species richness.
+    </para>
+
+    <para id="para2">
+      Another measure of species diversity is the <term target-id="specieseven">species evenness</term>, which is the
+      relative abundance with which each species is represented in an
+      area. An <term target-id="ecosystem">ecosystem</term> where all the
+      species are represented by the same number of individuals has high
+      species evenness. An ecosystem where some species are
+      represented by many individuals, and other species are
+      represented by very few individuals has a low species
+      evenness. <link target-id="table2"/> shows the abundance of species
+      (number of individuals per hectare) in three ecosystems and
+      gives the measures of species richness (S), evenness (E), and
+      the Shannon diversity index (H).
+    </para>
+
+    <para id="para2.1">
+      Shannon's diversity index 
+      <m:math>
+	<m:apply>
+	  <m:eq/>
+	  <m:ci>H</m:ci>
+	  <m:apply>
+	    <m:minus/>
+	    <m:apply>
+	      <m:sum/>
+	      <m:apply>
+		<m:times/>
+		<m:ci><m:msub>
+		    <m:mi>ρ</m:mi>
+		    <m:mi>i</m:mi>
+		  </m:msub></m:ci>
+		<m:apply>
+		  <m:ln/>
+		  <m:ci><m:msub>
+		      <m:mi>ρ</m:mi>
+		      <m:mi>i</m:mi>
+		    </m:msub></m:ci>
+		</m:apply>
+	      </m:apply>
+	    </m:apply>
+	  </m:apply>
+	</m:apply>
+      </m:math>
+      
+      <list id="shannonlist">
+	<item>
+	  <m:math>
+	    <m:ci><m:msub>
+		<m:mi>ρ</m:mi>
+		<m:mi>i</m:mi>
+	      </m:msub></m:ci>
+	  </m:math>
+	  is the proportion of the total number of specimens
+	  <m:math><m:ci>i</m:ci></m:math> expressed as a proportion of
+	  the total number of species for all species in the
+	  ecosystem. The product of
+	  <m:math>
+	    <m:apply>
+	      <m:times/>
+	      <m:ci><m:msub>
+		  <m:mi>ρ</m:mi>
+		  <m:mi>i</m:mi>
+		</m:msub></m:ci>
+	      <m:apply>
+		<m:ln/>
+		<m:ci><m:msub>
+		    <m:mi>ρ</m:mi>
+		    <m:mi>i</m:mi>
+		  </m:msub></m:ci>
+	      </m:apply>
+	    </m:apply>
+	  </m:math>
+	  for each species in the ecosystem is summed, and multiplied
+	  by
+	  <m:math><m:apply><m:minus/><m:cn>1</m:cn></m:apply></m:math>
+	  to give <m:math><m:ci>H</m:ci></m:math>. The species
+	  evenness index
+	  (<term><m:math><m:ci>E</m:ci></m:math></term>) 
+	  is calculated as 
+	  <m:math>
+	    <m:apply>
+	      <m:eq/>
+	      <m:ci>E</m:ci>
+	      <m:apply>
+		<m:divide/>
+		<m:ci>H</m:ci>
+		<m:ci>
+		  <m:msub>
+		    <m:mi>H</m:mi>
+		    <m:mtext>max</m:mtext>
+		  </m:msub>
+		</m:ci>
+	      </m:apply>
+	    </m:apply>
+	  </m:math>.
+	</item>
+	<item>
+	  <m:math><m:ci><m:msub><m:mi>H</m:mi><m:mtext>max</m:mtext></m:msub></m:ci></m:math>
+	  is the maximum possible value of
+	  <term><m:math><m:ci>H</m:ci></m:math></term>, and is
+	  equivalent to
+	  <m:math><m:apply><m:ln/><m:ci>S</m:ci></m:apply></m:math>.
+	  Thus 
+	  <m:math>
+	    <m:apply>
+	      <m:eq/>
+	      <m:ci>E</m:ci>
+	      <m:apply>
+		<m:divide/>
+		<m:ci>H</m:ci>
+		<m:apply>
+		  <m:ln/>
+		  <m:ci>S</m:ci>
+		</m:apply>
+	      </m:apply>
+	    </m:apply>
+	  </m:math>
+	</item>
+      </list>
+      See <cite target-id="gibbs"><cite-title>Gibbs <foreign>et al.</foreign>, 1998:
+      p157</cite-title></cite> and <cite target-id="beals"><cite-title>Beals <foreign>et
+      al.</foreign> (2000)</cite-title></cite> for discussion and examples. <cite target-id="magurran"><cite-title>Magurran (1988)</cite-title></cite> also gives discussion of
+      the methods of quantifying diversity.
+    </para>
+    
+    <para id="para2.2">
+      In <link target-id="table2"/>, ecosystem A shows the greatest
+      diversity in terms of species richness. However, ecosystem B
+      could be described as being <emphasis>richer</emphasis> insofar
+      as most species present are more evenly represented by numbers
+      of individuals; thus the species evenness (E) value is
+      larger. This example also illustrates a condition that is often
+      seen in tropical ecosystems, where disturbance of the ecosystem
+      causes uncommon species to become even less common, and common
+      species to become even more common. Disturbance of ecosystem B
+      may produce ecosystem C, where the uncommon species 3 has become
+      less common, and the relatively common species 1 has become more
+      common. There may even be an increase in the number of species
+      in some disturbed ecosystems but, as noted above, this may occur
+      with a concomitant reduction in the abundance of individuals or
+      local extinction of the rarer species.
+    </para>
+
+    <para id="para2.3">
+      Species richness and species evenness are probably the most
+      frequently used measures of the total biodiversity of a region.
+      Species diversity is also described in terms of the <term target-id="phylogendiv">phylogenetic diversity</term>, or
+      evolutionary relatedness, of the species present in an area. For
+      example, some areas may be rich in closely related taxa, having
+      evolved from a common ancestor that was also found in that same
+      area, whereas other areas may have an array of less closely
+      related species descended from different ancestors (see further
+      comments in the section on <link target-id="para10.1">Species
+      diversity as a surrogate for global biodiversity</link>).
+    </para>
+    
+    <para id="para3">
+      To count the number of species, we must define what constitutes
+      a species. There are several competing theories, or
+      "species concepts" (<cite target-id="mayden"><cite-title>Mayden, 1997</cite-title></cite>). The
+      most widely accepted are the morphological species concept, the
+      biological species concept, and the phylogenetic species
+      concept.
+    </para>
+
+    <para id="para4">
+      Although the <term target-id="msc">morphological species
+      concept</term> (MSC) is largely outdated as a theoretical
+      definition, it is still widely used. According to this concept:
+      <quote display="block" id="idp5989920">species are the smallest groups that are
+      consistently and persistently distinct, and distinguishable by
+      ordinary means. (<cite target-id="cronquist"><cite-title>Cronquist,
+      1978</cite-title></cite>).</quote> In other words, <term target-id="msc">morphological species concept</term> states that "a
+      species is a community, or a number of related communities,
+      whose distinctive morphological characters are, in the opinion
+      of a competent systematist, sufficiently definite to entitle it,
+      or them, to a specific name" (<cite target-id="regan"><cite-title>Regan, 1926:
+      75</cite-title></cite>).
+    </para>
+
+    <para id="para5">
+      The <term target-id="bsc">biological species concept</term> (BSC), as
+      described by <cite target-id="mayrandashlock"><cite-title>Mayr and Ashlock (1991)</cite-title></cite>,
+      states that
+      <quote display="block" id="idp5995760">
+	"a species is a group of interbreeding natural populations
+	that is reproductively isolated from other such groups".
+      </quote>
+    </para>
+
+    <para id="para6">
+      According to the <term target-id="psc">phylogenetic species
+      concept</term> (PSC), as defined by <cite target-id="cracrafta"><cite-title>Cracraft (1983)</cite-title></cite>, a species :
+      <quote display="block" id="idp5999008">
+	"is the smallest diagnosable cluster of individual organism
+	[that is, the cluster of organisms are identifiably distinct
+	from other clusters] within which there is a parental pattern
+	of ancestry and descent".
+      </quote>
+	
+      These concepts are not congruent, and considerable debate exists
+      about the advantages and disadvantages of all existing species
+      concepts (for further discussion, see the module on <link document="">Macroevolution: essentials of systematics and
+      taxonomy</link><!-- new topic discussion-->).
+    </para>
+
+    <para id="para7">
+      In practice, systematists usually group specimens together
+      according to shared features (genetic, morphological,
+      physiological). When two or more groups show different sets of
+      shared characters, and the shared characters for each group
+      allow all the members of that group to be distinguished
+      relatively easily and consistently from the members of another
+      group, then the groups are considered different species. This
+      approach relies on the objectivity of the phylogenetic species
+      concept (<foreign>i.e.</foreign>, the use of intrinsic, shared,
+      characters to define or diagnose a species) and applies it to
+      the practicality of the morphological species concept, in terms
+      of sorting specimens into groups (<cite target-id="kottelata"><cite-title>Kottelat, 1995</cite-title></cite>, <cite target-id="kottelatb"><cite-title>1997</cite-title></cite>).
+    </para>
+
+    <para id="para8">
+      Despite their differences, all species concepts are based on the
+      understanding that there are parameters that make a species a
+      discrete and identifiable evolutionary entity. If populations of
+      a species become isolated, either through differences in their
+      distribution (<foreign>i.e.</foreign>, geographic isolation) or
+      through differences in their reproductive biology
+      (<foreign>i.e.</foreign>, reproductive isolation), they can
+      diverge, ultimately resulting in speciation. During this
+      process, we expect to see distinct populations representing
+      <term>incipient species</term> - species in the process of
+      formation. Some researchers may describe these as subspecies or
+      some other sub-category, according to the species concept used
+      by these researchers.  However, it is very difficult to decide
+      when a population is sufficiently different from other
+      populations to merit its ranking as a subspecies. For these
+      reasons, subspecific and infrasubspecific ranks may become
+      extremely subjective decisions of the degree of distinctiveness
+      between groups of organisms (<cite target-id="kottelatb"><cite-title>Kottelat,
+      1997</cite-title></cite>).
+    </para>
+
+    <para id="para9">
+      An <term target-id="esu">evolutionary significant unit</term> (ESU)
+      is defined, in conservation biology, as a group of organisms
+      that has undergone significant genetic divergence from other
+      groups of the same species. According to <cite target-id="ryder"><cite-title>Ryder, 1986</cite-title></cite> identification of ESUs requires
+      the use of natural history information, range and distribution
+      data, and results from analyses of morphometrics, cytogenetics,
+      allozymes and nuclear and mitochondrial DNA. In practice, many
+      ESUs are based on only a subset of these data sources.
+      Nevertheless, it is necessary to compare data from different
+      sources (<foreign>e.g.</foreign>, analyses of distribution,
+      morphometrics, and DNA) when establishing the status of ESUs. If
+      the ESUs are based on populations that are <term target-id="sympatric">sympatric</term> or <term target-id="parapatric">parapatric</term> then it is particularly
+      important to give evidence of significant genetic distance
+      between those populations.
+    </para>
+
+    <para id="para10">
+      ESUs are important for conservation management because they can
+      be used to identify discrete components of the evolutionary
+      legacy of a species that warrant conservation
+      action. Nevertheless, in evolutionary terms and hence in many
+      systematic studies, species are recognized as the minimum
+      identifiable unit of biodiversity above the level of a single
+      organism (<cite target-id="kottelatb"><cite-title>Kottelat, 1997</cite-title></cite>). Thus
+      there is generally more systematic information available for
+      species diversity than for subspecific categories and for ESUs. 
+      Consequently, estimates of species diversity are used more 
+      frequently as the standard measure of overall biodiversity of 
+      a region.
+    </para>
+
+    <section id="subsec">
+      <title>Species Diversity as a Surrogate for Global Biodiversity</title>
+      <para id="para10.1">
+	Global biodiversity is frequently expressed as the total
+	number of species currently living on Earth,
+	<foreign>i.e.</foreign>, its species richness. Between about
+	1.5 and 1.75 million species have been discovered and
+	scientifically described thus far (<cite target-id="landg"><cite-title>LeCointre and Guyader, 2001</cite-title></cite>; <cite target-id="cracraftb"><cite-title> Cracraft, 2002</cite-title></cite>). Estimates for the
+	number of scientifically valid species vary partly because of
+	differing opinions on the definition of a species.For example,
+	the phylogenetic species concept recognizes more species than
+	the biological species concept. Also, some scientific
+	descriptions of species appear in old, obscure, or poorly
+	circulated publications. In these cases, scientists may
+	accidentally overlook certain species when preparing
+	inventories of biota, causing them to describe and name an
+	already known species.
+      </para>
+      
+      <para id="para10.2">
+	More significantly, some species are very difficult to
+	identify.  For example, taxonomically "cryptic species" look
+	very similar to other species and may be misidentified (and
+	hence overlooked as being a different species). Thus, several
+	different, but similar-looking species, identified as a single
+	species by one scientist, are identified as completely
+	different species by another scientist. For further discussion
+	of cryptic species, with specific examples of cryptic frogs
+	from Vietnam, see <cite target-id="inger"><cite-title>Inger (1999)</cite-title></cite> and
+	<cite target-id="bain"><cite-title>Bain <foreign>et al.</foreign>, (in
+	press)</cite-title></cite>.
+      </para>
+    </section>
+
+    <para id="para13">
+      Scientists expect that the scientifically described species
+      represent only a small fraction of the total number of species
+      on Earth today. Many additional species have yet to be
+      discovered, or are known to scientists but have not been
+      formally described. Scientists estimate that the total number of
+      species on Earth could range from about 3.6 million up to 117.7
+      million, with 13 to 20 million being the most frequently cited
+      range (<cite target-id="hammond"><cite-title>Hammond, 1995</cite-title></cite>; <cite target-id="cracraftb"><cite-title>Cracraft, 2002</cite-title></cite>).
+    </para>
+
+    <para id="para14">
+      The estimation of total number of species is based on
+      extrapolations from what we already know about
+      certain groups of species. For example, we can extrapolate using
+      the ratio of scientifically described species to undescribed
+      species of a particular group of organisms collected from a
+      prescribed area. However, we know so little about some groups of
+      organisms, such as bacteria and some types of fungi, that we do
+      not have suitable baseline data from which we can extrapolate
+      our estimated total number of species on Earth. Additionally,
+      some groups of organisms have not been comprehensively collected
+      from areas where their species richness is likely to be richest
+      (for example, insects in tropical rainforests). These factors,
+      and the fact that different people have used different
+      techniques and data sets to extrapolate the total number of
+      species, explain the large range between the lower and upper
+      figures of 3.6 million and 117.7 million, respectively.
+    </para>
+
+    <para id="para15">
+      While it is important to know the total number of species of
+      Earth, it is also informative to have some measure of the
+      proportional representation of different groups of related
+      species (<foreign>e.g.</foreign> bacteria, flowering plants,
+      insects, birds, mammals). This is usually referred to as the
+      taxonomic or phylogenetic diversity. Species are grouped
+      together according to shared characteristics (genetic,
+      anatomical, biochemical, physiological, or behavioral) and this
+      gives us a classification of the species based on their
+      phylogenetic, or apparent evolutionary relationships. We can
+      then use this information to assess the proportion of related
+      species among the total number of species on Earth. <link target-id="table2"/> contains a selection of well-known taxa.
+      <table frame="all" id="table2" summary="">
+	<title>Estimated Numbers of Described Species, Based on
+	Lecointre and Guyader (2001)</title>
+	<tgroup cols="4" colsep="1" rowsep="1">
+	  <thead>
+	    <row>
+	      <entry>Taxon</entry>
+	      <entry>Taxon Common Name</entry>
+	      <entry>Number of species described* </entry>
+	      <entry>N as percentage of total number of described species* </entry>
+	    </row>
+	  </thead>
+	  <tbody>
+	    <row>
+	      <entry>Bacteria</entry>
+	      <entry>true bacteria</entry>
+	      <entry>9021</entry>
+	      <entry>0.5</entry>
+	    </row>
+	    <row>
+	      <entry>Archaea</entry>
+	      <entry>archaebacteria</entry>
+	      <entry>259</entry>
+	      <entry>0.01</entry>
+	    </row>
+	    <row>
+	      <entry>Bryophyta </entry>
+	      <entry>mosses</entry>
+	      <entry>15000</entry>
+	      <entry>0.9</entry>
+	    </row>
+	    <row>
+	      <entry>Lycopodiophyta</entry>
+	      <entry>clubmosses</entry>
+	      <entry>1275</entry>
+	      <entry>0.07</entry>
+	    </row>
+	    <row>
+	      <entry>Filicophyta</entry>
+	      <entry>ferns</entry>
+	      <entry>9500</entry>
+	      <entry>0.5</entry>
+	    </row>
+	    <row>
+	      <entry>Coniferophyta</entry>
+	      <entry>conifers</entry>
+	      <entry>601</entry>
+	      <entry>0.03</entry>
+	    </row>
+	    <row>
+	      <entry>Magnoliophyta </entry>
+	      <entry>flowering plants</entry>
+	      <entry>233885</entry>
+	      <entry>13.4</entry>
+	    </row>
+	    <row>
+	      <entry>Fungi</entry>
+	      <entry>fungi</entry>
+	      <entry>100800</entry>
+	      <entry>5.8</entry>
+	    </row>
+	    <row>
+	      <entry>"Porifera"</entry>
+	      <entry>sponges</entry>
+	      <entry>10000</entry>
+	      <entry>0.6</entry>
+	    </row>
+	    <row>
+	      <entry>Cnidaria</entry>
+	      <entry>cnidarians</entry>
+	      <entry>9000</entry>
+	      <entry>0.5</entry>
+	    </row>
+	    <row>
+	      <entry>Rotifera</entry>
+	      <entry>rotifers</entry>
+	      <entry>1800</entry>
+	      <entry>0.1</entry>
+	    </row>
+	    <row>
+	      <entry>Platyhelminthes</entry>
+	      <entry>flatworms</entry>
+	      <entry>13780</entry>
+	      <entry>0.8</entry>
+	    </row>
+	    <row>
+	      <entry>Mollusca</entry>
+	      <entry>mollusks</entry>
+	      <entry>117495</entry>
+	      <entry>6.7</entry>
+	    </row>
+	    <row>
+	      <entry>Annelida</entry>
+	      <entry>annelid worms</entry>
+	      <entry>14360</entry>
+	      <entry>0.8</entry>
+	    </row>
+	    <row>
+	      <entry>Nematoda</entry>
+	      <entry>nematode worms</entry>
+	      <entry>20000</entry>
+	      <entry>1.1</entry>
+	    </row>
+	    <row>
+	      <entry>Arachnida</entry>
+	      <entry>arachnids</entry>
+	      <entry>74445</entry>
+	      <entry>4.3</entry>
+	    </row>
+	    <row>
+	      <entry>Crustacea</entry>
+	      <entry>crustaceans</entry>
+	      <entry>38839</entry>
+	      <entry>2.2</entry>
+	    </row>
+	    <row>
+	      <entry>Insecta</entry>
+	      <entry>insects</entry>
+	      <entry>827875</entry>
+	      <entry>47.4</entry>
+	    </row>
+	    <row>
+	      <entry>Echinodermata</entry>
+	      <entry>echinoderms</entry>
+	      <entry>6000</entry>
+	      <entry>0.3</entry>
+	    </row>
+	    <row>
+	      <entry>Chondrichthyes</entry>
+	      <entry>cartilaginous fishes</entry>
+	      <entry>846</entry>
+	      <entry>0.05</entry>
+	    </row>
+	    <row>
+	      <entry>Actinopterygii</entry>
+	      <entry>ray-finned bony fishes</entry>
+	      <entry>23712</entry>
+	      <entry>1.4</entry>
+	    </row>
+	    <row>
+	      <entry>Lissamphibia</entry>
+	      <entry>living amphibians</entry>
+	      <entry>4975</entry>
+	      <entry>0.3</entry>
+	    </row>
+	    <row>
+	      <entry>Mammalia</entry>
+	      <entry>mammals</entry>
+	      <entry>4496</entry>
+	      <entry>0.3</entry>
+	    </row>
+	    <row>
+	      <entry>Chelonia</entry>
+	      <entry>living turtles</entry>
+	      <entry>290</entry>
+	      <entry>0.02</entry>
+	    </row>
+	    <row>
+	      <entry>Squamata</entry>
+	      <entry>lizards and snakes</entry>
+	      <entry>6850</entry>
+	      <entry>0.4</entry>
+	    </row>
+	    <row>
+	      <entry>Aves</entry>
+	      <entry>birds</entry>
+	      <entry>9672</entry>
+	      <entry>0.6</entry>
+	    </row>
+	    <row>
+	      <entry>Other</entry>
+	      <entry/>
+	      <entry>193075</entry>
+	      <entry>11.0</entry>
+	    </row>
+	  </tbody>
+	</tgroup>
+	<caption>
+	  * The total number of described species is assumed to be
+            1,747,851. This figure, and the numbers of species for
+            taxa are taken from <cite target-id="landg"><cite-title>LeCointre and
+            Guyader (2001)</cite-title></cite>.
+	</caption>
+      </table>
+    </para>
+
+    <para id="para16">
+      Most public attention is focused on the biology and ecology of
+      large, charismatic species such as mammals, birds, and certain
+      species of trees (<foreign>e.g.</foreign>, mahogany, sequoia).
+      However, the greater part of Earth's species diversity is found
+      in other, generally overlooked groups, such as mollusks,
+      insects, and groups of flowering plants.
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="speciesdiv">
+      <term>Species diversity</term>
+      <meaning id="idm6875424">
+	the number of different species in a particular area
+	(<foreign>i.e.</foreign>, species richness) weighted by some
+	measure of abundance such as number of individuals or biomass.
+      </meaning>
+    </definition>
+
+    <definition id="speciesrich">
+      <term>Species richness</term>
+      <meaning id="idm6872944">the number of different species in a particular area</meaning>
+    </definition>
+
+    <definition id="specieseven">
+      <term>Species evenness</term>
+      <meaning id="idm6871104">
+	the relative abundance with which each species are represented
+	in an area.
+      </meaning>
+    </definition>
+
+    <definition id="phylogendiv">
+      <term>Phylogenetic diversity</term>
+      <meaning id="idm6869264">
+	the evolutionary relatedness of the species present in an area.
+      </meaning>
+    </definition>
+
+    <definition id="msc">
+      <term>Morphological species concept</term>
+      <meaning id="idm6916288">
+	species are the smallest natural populations permanently
+	separated from each other by a distinct discontinuity in the
+	series of biotype (Du Rietz, 1930; Bisby and Coddington,
+	1995).
+      </meaning>
+    </definition>
+
+    <definition id="bsc">
+      <term>Biological species concept</term>
+      <meaning id="idm6914272">
+	a species is a group of interbreeding natural populations
+	unable to successfully mate or reproduce with other such
+	groups, and which occupies a specific niche in nature (Mayr,
+	1982; Bisby and Coddington, 1995).
+      </meaning>
+    </definition>
+
+    <definition id="psc">
+      <term>Phylogenetic species concept</term>
+      <meaning id="idm6912224">
+	a species is the smallest group of organisms that is
+	diagnosably [that is, identifiably] distinct from other such
+	clusters and within which there is a parental pattern of
+	ancestry and descent (Cracraft, 1983; Bisby and Coddington,
+	1995).
+      </meaning>
+    </definition>
+
+    <definition id="esu">
+      <term>Evolutionary significant unit</term>
+      <meaning id="idm6910144">
+	a group of organisms that has undergone significant genetic
+	divergence from other groups of the same
+	species. Identification of ESUs is based on natural history
+	information, range and distribution data, and results from
+	analyses of morphometrics, cytogenetics, allozymes and nuclear
+	and mitochondrial DNA. Concordance of those data, and the
+	indication of significant genetic distance between sympatric
+	groups of organisms, are critical for establishing an ESU.
+      </meaning>
+    </definition>
+
+    <definition id="ecosystem">
+      <term>Ecosystem</term>
+      <meaning id="idm6907552">
+	a community plus the physical environment that it occupies at
+	a given time.
+      </meaning>
+    </definition>
+
+    <definition id="sympatric">
+      <term>Sympatric</term>
+      <meaning id="idm6905408">
+	occupying the same geographic area.
+      </meaning>
+    </definition>
+
+    <definition id="parapatric">
+      <term>Parapatric</term>
+      <meaning id="idm6903264">
+	occupying contiguous but not overlapping ranges.
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="mayden">
+      <bib:incollection>
+	<bib:author>Mayden, R.L.</bib:author>
+	<bib:title>
+	  A hierarchy of species concepts: the denouement in the saga
+	  of the species problem
+	</bib:title>
+	<bib:booktitle>Species: the units of biodiversity</bib:booktitle>
+	<bib:publisher>Chapman and Hall</bib:publisher>
+	<bib:year>1997</bib:year>
+	<bib:editor>M.F. Claridge, H.A. Dawah, and M.R. Wilson</bib:editor>
+	<bib:pages>381-424</bib:pages>
+	<bib:address>London, U.K.</bib:address>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="durietz">
+      <bib:article>
+	<bib:author>Du Rietz, G.E. </bib:author>
+	<bib:title>The fundamental units of biological taxonomy</bib:title>
+	<bib:journal>Svensk Botanisk Tidskrift</bib:journal>
+	<bib:year>1930</bib:year>
+	<bib:volume>24</bib:volume>
+	<bib:pages>333-428</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="mayr">
+      <bib:book>
+	<bib:author>Mayr, E.</bib:author>
+	<bib:title>
+	  The growth of biological thought: diversity, evolution, and
+	  inheritance.
+	</bib:title>
+	<bib:publisher>Harvard University Press</bib:publisher>
+	<bib:year>1982</bib:year>
+	<bib:address>Cambridge, Massachusetts, U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="bisbyandcoddington">
+      <bib:incollection>
+	<bib:author>Bisby, F.A. and J. Coddington.</bib:author>
+	<bib:title>
+	  Biodiversity from a taxonomic and evolutionary perspective
+	</bib:title>
+	<bib:booktitle>Global Biodiversity Assessment</bib:booktitle>
+	<bib:publisher>Cambridge University Press</bib:publisher>
+	<bib:year>1995</bib:year>
+	<bib:editor>V.H. Heywood and R.T. Watson</bib:editor>
+	<bib:pages>27-56</bib:pages>
+	<bib:address>Cambridge, U.K</bib:address>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="cracrafta">
+      <bib:article>
+	<bib:author>Cracraft, C.</bib:author>
+	<bib:title>Species concepts and speciation analysis</bib:title>
+	<bib:journal>Ornithology</bib:journal>
+	<bib:year>1983</bib:year>
+	<bib:volume>1</bib:volume>
+	<bib:pages>159-187</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="kottelata">
+      <bib:article>
+	<bib:author>Kottelat, M.</bib:author>
+	<bib:title>
+	  Systematic studies and biodiversity: the need for a
+	  pragmatic approach
+	</bib:title>
+	<bib:journal>Journal of Natural History</bib:journal>
+	<bib:year>1995</bib:year>
+	<bib:volume>29</bib:volume>
+	<bib:pages>565-569</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="kottelatb">
+      <bib:article>
+	<bib:author>Kottelat, M.</bib:author>
+	<bib:title>
+	  European freshwater fishes: an heuristic checklist of the
+	  freshwater fishes of Europe (exclusive of former USSR), with
+	  an introduction for non-systematists and comments on
+	  nomenclature and conservation
+	</bib:title>
+	<bib:journal>Biologia (Bratislava)</bib:journal>
+	<bib:year>1997</bib:year>
+	<bib:volume>52 (Supplement 5)</bib:volume>
+	<bib:pages>1-271</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="ryder">
+      <bib:article>
+	<bib:author>Ryder, O.A.</bib:author>
+	<bib:title>
+	  Species conservation and systematics: the dilemma of subspecies
+	</bib:title>
+	<bib:journal>Trends in Ecology and Evolution</bib:journal>
+	<bib:year>1986</bib:year>
+	<bib:volume>1(1)</bib:volume>
+	<bib:pages>9-10</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="cracraftb">
+      <bib:article>
+	<bib:author>Cracraft, C.</bib:author>
+	<bib:title>
+	  The seven great questions of systematic biology: an
+	  essential foundation for conservation and the sustainable
+	  use of biodiversity
+	</bib:title>
+	<bib:journal>Annals of the Missouri Botanical Garden</bib:journal>
+	<bib:year>2002</bib:year>
+	<bib:volume>89</bib:volume>
+	<bib:pages>127-144</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="landg">
+      <bib:book>
+	<bib:author>Lecointre, G. and H. Le Guyader</bib:author>
+	<bib:title>Classification phylogenetique du vivant</bib:title>
+	<bib:publisher>Belin</bib:publisher>
+	<bib:year>2001</bib:year>
+	<bib:address>Paris, France</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="inger">
+      <bib:inbook>
+	<bib:author>Inger, R.F.</bib:author>
+	<bib:title>
+	  Distribution of amphibians of southern Asia and adjacent
+	  islands.
+	</bib:title>
+	<bib:pages>445-482</bib:pages>
+	<bib:publisher>Johns Hopkins University Press</bib:publisher>
+	<bib:year>1999</bib:year>
+	<bib:address>Baltimore, Maryland, U.S.A.</bib:address>
+      </bib:inbook>
+    </bib:entry>
+
+    <bib:entry id="bain">
+      <bib:book>
+	<bib:author>Bain, R.H., A. Lathrop, R.W. Murphy, N.L. Orlov,
+	and Ho Thu Cuc</bib:author>
+	<bib:title>
+	  Cryptic species of a cascade frog from Southeast Asia:
+	  taxonomic revisions and descriptions of six new species
+	</bib:title>
+	<bib:publisher>American Museum Novitates</bib:publisher>
+	<bib:year>in press</bib:year>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="hammond">
+      <bib:incollection>
+	<bib:author>Hammond, P.</bib:author>
+	<bib:title>
+	  The current magnitude of biodiversity.
+	</bib:title>
+	<bib:booktitle>Global Biodiversity Assessment</bib:booktitle>
+	<bib:publisher>Cambridge University Press</bib:publisher>
+	<bib:year>1995</bib:year>
+	<bib:editor>V.H. Heywood and R.T. Watson</bib:editor>
+	<bib:pages>113-138</bib:pages>
+	<bib:address>Cambridge, U.K</bib:address>
+      </bib:incollection>
+    </bib:entry>   
+
+    <bib:entry id="beals">
+      <bib:incollection>
+	<bib:author>Beals, M., L. Gross, S. Harrell</bib:author>
+	<bib:title>
+	  Diversity indices: Shannon's H and E.
+	</bib:title>
+	<bib:booktitle>Alternative routes to quantitative literacy for
+	the life sciences - A project supported by the National
+	Science Foundation</bib:booktitle>
+	<bib:publisher>University of Tennessee, Knoxville</bib:publisher>
+	<bib:year>1998</bib:year>
+	<bib:editor>L.J. Gross, B.C. Mullin, S.E. Riechert,
+	O.J. Schwarz, M. Beals, S. Harrell</bib:editor>
+	<bib:pages/>
+	<bib:address>Knoxville, Tennessee</bib:address>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="gibbs">
+      <bib:incollection>
+	<bib:author>Gibbs, J.P., M.L. Hunter, Jr. and E.J. Sterling</bib:author>
+	<bib:title>
+	  Problem-Solving in conservation biology and wildlife management.
+	</bib:title>
+	<bib:booktitle>Exercises for class, field and laboratory.</bib:booktitle>
+	<bib:publisher/>
+	<bib:year>1998</bib:year>
+	<bib:editor/>
+	<bib:pages/>
+	<bib:address>Blackwell Science, Massachusetts, U.S.A</bib:address>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="magurran">
+      <bib:incollection>
+	<bib:author>Magurran, A.E.</bib:author>
+	<bib:title>
+	  Ecological diversity and its measurement.
+	</bib:title>
+	<bib:booktitle/>
+	<bib:publisher>Princeton University Press</bib:publisher>
+	<bib:year>1998</bib:year>
+	<bib:editor/>
+	<bib:pages/>
+	<bib:address>Princeton, New Jersey, U.S.A</bib:address>
+      </bib:incollection>
+    </bib:entry>   
+
+    <bib:entry id="cronquist">
+      <bib:incollection>
+	<bib:author>Cronquist, A</bib:author>
+	<bib:title>
+	  Once again, what is a species?
+	</bib:title>
+	<bib:booktitle>Biosystematics in Agriculture</bib:booktitle>
+	<bib:publisher>Allenheld Osmin</bib:publisher>
+	<bib:year>1978</bib:year>
+	<bib:editor>L.V. Knutson</bib:editor>
+	<bib:pages>3-20</bib:pages>
+	<bib:address>Montclair, New Jersey, U.S.A</bib:address>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="regan">
+      <bib:incollection>
+	<bib:author>Regan, C.T.</bib:author>
+	<bib:title>
+	  Organic Evolution
+	</bib:title>
+	<bib:booktitle>Report British Association for Advancement of
+	Science, 1925</bib:booktitle>
+	<bib:publisher/>
+	<bib:year>1926</bib:year>
+	<bib:editor/>
+	<bib:pages>75-86</bib:pages>
+	<bib:address/>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="mayrandashlock">
+      <bib:book>
+	<bib:author>Mayr, E. and P.D. Ashlock</bib:author>
+	<bib:title>Principles of systematic zoology</bib:title>
+	<bib:publisher>McGraw-Hill</bib:publisher>
+	<bib:year>1991</bib:year>
+	<bib:address>New York, New York, U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+</document>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://rhaptos.ece.rice.edu/cnxml/0.5/style/xmlspy.xsl"?>
+<?xmlspysps http://rhaptos.ece.rice.edu/cnxml/0.5/cnxml.sps?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:bib="http://bibtexml.sourceforge.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml/0.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cnx.rice.edu/cnxml
+http://rhaptos.ece.rice.edu/cnxml/0.5/schema/cnxml.xsd" id="new1">
+	<name>Introduction to Utilitarian Valuation of Biodiversity</name>
+	<content>
+		<para id="utilpara1">Determining the value or worth of biodiversity is complex. Economists typically subdivide utilitarian or use values of biodiversity into <term src="#directuse">direct use value</term> for those goods that are consumed directly, such as food or timber, and <term src="#indirectuse">indirect use value</term> for those services that support the items that are consumed, including ecosystem functions like nutrient cycling. </para>
+		<para id="utilpara2">There are several less tangible values that are sometimes called <term src="#nonuse">non-use or passive values</term>, for things that we don’t use but would consider as a loss if they were to disappear; these include <term src="#existence">existence value</term>, the value of knowing something exists even if you will never use it or see it, and <term src="#bequest">bequest value</term>, the value of knowing something will be there for future generations (<cite src="#MoranandPearce">Moran and Pearce 1994</cite>). <term src="#potential">Potential or Option value</term>  refers to the use that something may have in the future; sometimes this is included as a use value, we have chosen to include it within the passive values here based on its abstract nature. The components included within the category of “utilitarian” values vary somewhat in the literature. For example, some authors classify spiritual, cultural, and aesthetic values as indirect use values, whiles others consider them to be non-use values, differentiated from indirect use values – such as nutrient cycling – because spiritual, cultural, and aesthetic values for biodiversity are not essential to human survival. Still others consider these values as separate categories entirely. (See also, <cite src="#Callicott">Callicott 1997</cite>, <cite src="#Hunter">Hunter 2002</cite>, <cite src="#MoranandPearce">Moran and Pearce 1994</cite>, <cite src="#PerlamanandAdelson">Perlman and Adelson 1997</cite>, <cite src="#Primack">Primack 2002</cite>, <cite src="#VanDyke">Van Dyke 2003</cite>). In this module, we include spiritual, cultural and aesthetic values as a subset of indirect values or services, as they provide a service by enriching our lives (<cnxn target="table1">Table 1</cnxn>).<table id="table1">
+				<name>Categories of Values of Biodiversity</name>
+				<tgroup cols="4">
+					<colspec colnum="1" colname="spycolgen1" colwidth="*"/>
+					<colspec colnum="2" colname="spycolgen2" colwidth="*"/>
+					<colspec colnum="3" colname="spycolgen3" colwidth="*"/>
+					<colspec colnum="4" colname="spycolgen4" colwidth="*"/>
+					<tbody>
+						<row>
+							<entry>Direct Use Value (Goods)</entry>
+							<entry>Indirect Use Value (Services)</entry>
+							<entry>Non-Use Values</entry>
+							<entry></entry>
+						</row>
+						<row>
+							<entry>Food, medicine, building materical, fiber, fuel</entry>
+							<entry>Atmospheric and climate regulation, pollination, nutrient recycling</entry>
+							<entry>Potential (or Option) Value</entry>
+							<entry>Future value either as a good or a service</entry>
+						</row>
+						<row>
+							<entry></entry>
+							<entry>Cultural, Spiritual, and Aesthetic</entry>
+							<entry>Existence Value</entry>
+							<entry>Value of knowning something exists</entry>
+						</row>
+						<row>
+							<entry></entry>
+							<entry></entry>
+							<entry>Bequest Value</entry>
+							<entry>Value of knowning that something will be there for future generations</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table></para>
+	</content>
+	<glossary id="glossary1">
+		<definition id="directuse">
+			<term>direct use value</term>
+			<meaning>refers to products or gods which are consumed directly such as food or timber</meaning>
+		</definition>
+		<definition id="indirectuse">
+			<term>indirect use value</term>
+			<meaning>refers to the services that support the products that are consumes, this includes ecosystems functions like nutrient cycling</meaning>
+		</definition>
+		<definition id="nonuse">
+			<term>non use or passive value</term>
+			<meaning>refers to the value for things that we don&apos;t use but would feel a loss if they were to disappear</meaning>
+		</definition>
+		<definition id="existence">
+			<term>existence value</term>
+			<meaning>the values of knowing something exists even if you will never use it or see it</meaning>
+		</definition>
+		<definition id="bequest">
+			<term>bequest value</term>
+			<meaning>the value of knowing something will be there for future generations</meaning>
+		</definition>
+		<definition id="potential">
+			<term>potential or option value</term>
+			<meaning>refers to the use that something may have in the future</meaning>
+		</definition>
+	</glossary>
+	<bib:file>
+		<bib:entry bib:id="Callicott">
+			<bib:incollection>
+				<bib:author>Callicott, J.B.</bib:author>
+				<bib:title>Values and Ethics in Conservation</bib:title>
+				<bib:booktitle>Principles of Conservation Biology</bib:booktitle>
+				<bib:publisher>Sinauer Associates</bib:publisher>
+				<bib:year>1997</bib:year>
+				<bib:editor>Meffe G.K. and C.R. Carrol</bib:editor>
+				<bib:pages>29-56</bib:pages>
+				<bib:address>Sunderland, Massachusetts</bib:address>
+				<bib:edition>Second edition</bib:edition>
+			</bib:incollection>
+		</bib:entry>
+		<bib:entry bib:id="Hunter1">
+			<bib:inbook>
+				<bib:author>Hunter, M.L.</bib:author>
+				<bib:title>Fundamentals of Conservation Biology</bib:title>
+				<bib:chapter>3</bib:chapter>
+				<bib:pages>72-78</bib:pages>
+				<bib:publisher>Blackwell Science</bib:publisher>
+				<bib:year>2002</bib:year>
+			</bib:inbook>
+		</bib:entry>
+		<bib:entry bib:id="Hunter">
+			<bib:book>
+				<bib:author>Hunter, M.L.</bib:author>
+				<bib:title>Fundamentals of Conservation Biology</bib:title>
+				<bib:publisher>Blackwell Science</bib:publisher>
+				<bib:year>2002</bib:year>
+				<bib:address>Malden, Massachusetts, U.S.A. </bib:address>
+				<bib:edition>Second edition</bib:edition>
+			</bib:book>
+		</bib:entry>
+		<bib:entry bib:id="PerlmanandAdelson">
+			<bib:book>
+				<bib:author>Perlman, D.L. and G. Adelson</bib:author>
+				<bib:title>Biodiversity: Exploring Values and Priorities in Conservation</bib:title>
+				<bib:publisher>Blackwell Science</bib:publisher>
+				<bib:year>1997</bib:year>
+				<bib:address>Malden, Massachusetts, U.S.A.</bib:address>
+			</bib:book>
+		</bib:entry>
+		<bib:entry bib:id="Primack">
+			<bib:incollection>
+				<bib:author>Primack, R.B.</bib:author>
+				<bib:title>Valuing Biodiversity</bib:title>
+				<bib:booktitle>Essentials of Conservation Biology</bib:booktitle>
+				<bib:publisher>Sinauer Associates</bib:publisher>
+				<bib:year>2002</bib:year>
+				<bib:editor>Primack, R.B</bib:editor>
+				<bib:pages>85-156</bib:pages>
+				<bib:address>Sunderland, Massachusetts</bib:address>
+				<bib:edition>Third edition</bib:edition>
+			</bib:incollection>
+		</bib:entry>
+		<bib:entry bib:id="VanDyke">
+			<bib:incollection>
+				<bib:author>Van Dyke, F.</bib:author>
+				<bib:title>Values and Ethics</bib:title>
+				<bib:booktitle>Conservation Biology: Foundations, Concepts, Applications</bib:booktitle>
+				<bib:publisher>McGraw Hill</bib:publisher>
+				<bib:year>2003</bib:year>
+				<bib:editor>Van Dyke, F.</bib:editor>
+				<bib:pages>56-76</bib:pages>
+			</bib:incollection>
+		</bib:entry>
+	</bib:file>
+</document>

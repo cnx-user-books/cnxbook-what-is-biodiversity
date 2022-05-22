@@ -1,0 +1,362 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Spatial Gradients in Biodiversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6a13eb04-34a5-45e9-b20c-76e357609667</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      Generally speaking, warm tropical ecosystems are richer in
+      species than cold temperate ecosystems at high latitudes (see
+      <cite target-id="gastonandwilliams"><cite-title>Gaston and Williams, 1996</cite-title></cite>,
+      for general discussion). A similar pattern is seen for higher
+      taxonomic groups (genera, families). Various hypotheses
+      (<foreign>e.g.</foreign>, environmental patchiness, solar
+      energy, productivity; see <cite target-id="blackburnandgaston"><cite-title>Blackburn and Gaston, 1996</cite-title></cite>)
+      have been raised to explain these patterns.  For example, it is
+      assumed that warm, moist, tropical environments, with long
+      day-lengths provide organisms with more resources for growth and
+      reproduction than harsh environments with low energy resources
+      (<cite target-id="hunter"><cite-title>Hunter, 2002</cite-title></cite>). When environmental
+      conditions favor the growth and reproduction of primary
+      producers (<foreign>e.g.</foreign>, aquatic algae, corals,
+      terrestrial flora) then these may support large numbers of
+      secondary consumers, such as small herbivores, which also
+      support a more numerous and diverse fauna of predators. In
+      contrast, the development of primary producers in colder
+      temperate ecosystems is constrained by seasonal changes in
+      sunlight and temperature. Consequently, these ecosystems may
+      support a less diverse biota of secondary consumers and
+      predators.</para>
+
+
+    <para id="paradf">
+      Recently, (<cite target-id="allen"><cite-title>Allen <foreign>et al.</foreign>
+      2002</cite-title></cite>) developed a model for the effect of ambient
+      temperature on metabolism, and hence generation time and
+      speciation rates, and used this model to explain the latitudinal
+      gradient in biodiversity. However, these authors also noted that
+      the principles that underlie these spatial pattern of
+      biodiversity are still not well understood. </para>
+    
+    <para id="para4">
+      Species and ecosystem diversity is also known to vary with
+      altitude <cite target-id="walter"><cite-title>Walter (1985)</cite-title></cite> and <cite target-id="gastonandwilliams"><cite-title>Gaston and Williams (1996:
+      214-215)</cite-title></cite>. Mountainous environments, also called <term target-id="orobiome">orobiomes</term>, are subdivided vertically into
+      altitudinal belts, such as montane, alpine and nival, that have
+      quite different <term target-id="ecosystem">ecosystems</term>.
+      Climatic conditions at higher elevations
+      (<foreign>e.g.</foreign>, low temperatures, high aridity) can
+      create environments where relatively few species can
+      survive. Similarly, in oceans and freshwaters there are usually
+      fewer species as one moves to increasing depths below the
+      surface. However, in the oceans there may be a rise in species
+      richness close to the seabed, which is associated with an
+      increase in ecosystem heterogeneity.</para>
+
+    <para id="para5">
+      By mapping spatial gradients in biodiversity we can also
+      identify areas of special conservation interest. Conservation
+      biologists are interested in areas that have a high proportion
+      of <term target-id="endemicspecies">endemic species</term>,
+      <foreign>i.e.</foreign>, species whose distributions are
+      naturally restricted to a limited area. It is obviously
+      important to conserve these areas because much of their flora
+      and fauna, and therefore the ecosystems so-formed, are found
+      nowhere else. Areas of high endemism are also often associated
+      with high <term target-id="spec">species richness</term> (see <cite target-id="gastonandspicer"><cite-title>Gaston and Spicer, 1998</cite-title></cite> for
+      references).
+    </para>
+
+    <para id="paraa">
+      Some conservation biologists have focused their attention on
+      areas that have high levels of endemism (and hence diversity)
+      that are also experiencing a high rate of loss of ecosystems;
+      these regions are <term target-id="biodhs">biodiversity
+      hotspots</term>.  Because biodiversity hotspots are
+      characterized by localized concentrations of biodiversity under
+      threat, they represent priorities for conservation action (<cite target-id="sechrestplus"><cite-title>Sechrest <foreign>et al.</foreign>,
+      2002</cite-title></cite>). A <term target-id="tbiodivhot">terrestrial biodiversity
+      hotspot</term> is defined quantitatively as an area that has at
+      least 0.5%, or 1,500 of the world's ca. 300,000 species of green
+      plants (<foreign>Viridiplantae</foreign>), and that has lost at
+      least 70% of its primary vegetation (<cite target-id="myers"><cite-title>Myers
+      <foreign>et al.</foreign>, 2000</cite-title></cite>; <cite target-id="conservationintl"><cite-title>Conservation International,
+      2002</cite-title></cite>). <term target-id="mbiodivhot">Marine biodiversity
+      hotspots</term> are quantitatively defined based on measurements
+      of relative endemism of multiple taxa (species of corals,
+      snails, lobsters, fishes) within a region and the relative level
+      of threat to that region (<cite target-id="robertsplus"><cite-title>Roberts
+      <foreign>et al.</foreign>, 2002</cite-title></cite>). According to this
+      approach, the Philippine archipelago and the islands of Bioko,
+      Sao Tome, Principe and Annobon in the eastern Atlantic Gulf of
+      Guinea are ranked as two of the most threatened marine
+      biodiversity hotspot regions.</para>
+
+
+    <para id="para7">
+      Conservation biologists may also be interested in <term target-id="biodivcold">biodiversity coldspots</term>; these are
+	areas that have relatively low biological diversity but also
+	include threatened ecosystems (<cite target-id="karandmar"><cite-title>Kareiva
+	and Marvier, 2003</cite-title></cite>). Although a biodiversity coldspot is
+	low in species richness, it can also be important to conserve,
+	as it may be the only location where a rare species is found.
+	Extreme physical environments (low or high temperatures or
+	pressures, or unusual chemical composition) inhabited by just
+	one or two specially adapted species are coldspots that
+	warrant conservation because they represent unique
+	environments that are biologically and physically
+	interesting. For further discussion on spatial gradients in
+	biodiversity and associated conservation practices see the
+	related modules on <link document="">"Where is the world's
+	biodiversity?"</link> and <link document="">"Conservation
+	Planning at a Regional Scale."</link><!-- fix cnxns; future
+	topics -->
+    </para>
+
+  </content>
+
+  <glossary>
+    <definition id="biodhs">
+      <term>Biodiversity hotspots</term>
+      <meaning id="idm189488">
+	in general terms these are areas that have high levels of
+	endemism (and hence diversity) but which are also experiencing
+	a high rate of loss of habitat. This concept was originally
+	developed for terrestrial ecosystems. A terrestrial
+	biodiversity hotspot is an area that has at least 0.5%, or
+	1,500 of the worlds ca. 300,000 species of green plants
+	(<foreign>Viridiplantae</foreign>), and that has lost at least
+	70% of its primary vegetation (<cite target-id="myers"><cite-title>Myers
+	<foreign>et al.</foreign>, 2000</cite-title></cite>). Marine biodiversity
+	hotspots have been defined for coral reefs, based on
+	measurements of relative endemism of multiple taxa (species of
+	corals, snails, lobsters, fishes) within a region and the
+	relative level of threat to that region (<cite target-id="robertsplus"><cite-title>Roberts <foreign>et al.</foreign>,
+	2002</cite-title></cite>)
+      </meaning>
+    </definition>
+    <definition id="orobiome">
+      <term>Orobiome</term>
+      <meaning id="idm7463456">
+	a mountainous environment or landscape with its constituent
+	ecosystems
+      </meaning>
+    </definition>
+    <definition id="spec">
+      <term>Species richness</term>
+      <meaning id="idp996816">the number of different species in a particular area.</meaning>
+    </definition>
+    <definition id="ecosystem">
+      <term>ecosystem</term>
+      <meaning id="idm7726880">
+	a community plus the physical environment that it occupies at
+	a given time.
+      </meaning>
+    </definition>
+    <definition id="endemism">
+      <term>Area of endemism</term>
+      <meaning id="idm715536">
+	an areas which has a high proportion of endemic species
+	(<foreign>i.e.</foreign>, species with distributions that are
+	naturally restricted to that region)
+      </meaning>
+    </definition>
+
+    <definition id="endemicspecies">
+      <term>Endemic species</term>
+      <meaning id="idm7096416">
+	those species whose distributions are naturally restricted to
+	a defined region
+      </meaning>
+    </definition>
+
+    <definition id="tbiodivhot">
+      <term>Terrestrial Biodiversity hotspots</term>
+      <meaning id="idm392336">
+      </meaning>
+    </definition>
+
+    <definition id="mbiodivhot">
+      <term>Marine Biodiversity hotspots</term>
+      <meaning id="idp1395936">
+      </meaning>
+    </definition>
+
+    <definition id="biodivcold">
+      <term>Biodiversity coldspots</term>
+      <meaning id="idp773408">
+	areas that have relatively low biological diversity but are
+	also experiencing a high rate of habitat loss
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="gastonandwilliams">
+      <bib:incollection>
+	<bib:author>Gaston, K.J. and P.H. Williams</bib:author>
+	<bib:title>Spatial patterns in taxonomic diversity</bib:title>
+	<bib:booktitle>
+	  Biodiversity: a biology of numbers and difference
+	</bib:booktitle>
+	<bib:publisher>Blackwell Science Ltd.</bib:publisher>
+	<bib:year>1996</bib:year>
+	<bib:editor>K.J. Gaston</bib:editor>
+	<bib:pages>202-229</bib:pages>
+	<bib:address>Oxford, U.K.</bib:address>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="blackburnandgaston">
+      <bib:article>
+	<bib:author>Blackburn, T.M. and K.J. Gaston</bib:author>
+	<bib:title>
+	  A sideways look at patterns in species richness, or why
+	  there are so few species outside the tropics
+	</bib:title>
+	<bib:journal>Biodiversity Letters</bib:journal>
+	<bib:year>1996</bib:year>
+	<bib:volume>3</bib:volume>
+	<bib:pages>44-53</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="allen">
+      <bib:article>
+	<bib:author>Allen, A.P., J.H. Brown and J.F. Gillooly</bib:author>
+	<bib:title>
+	  Global biodiversity, biochemical kinetics, and the
+	  energetic-equivalence rule
+	</bib:title>
+	<bib:journal>Science</bib:journal>
+	<bib:year>2002</bib:year>
+	<bib:volume>297</bib:volume>
+	<bib:pages>1545-1548</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="gastonandspicer">
+      <bib:incollection>
+	<bib:author>Gaston, K.J. and J.I. Spicer</bib:author>
+	<bib:title>Mapping biodiversity</bib:title>
+	<bib:booktitle>
+	  Biodiversity: an Introduction
+	</bib:booktitle>
+	<bib:publisher>Blackwell Science Ltd.</bib:publisher>
+	<bib:year>1998</bib:year>
+	<bib:editor>K.J. Gaston and J.I. Spicer</bib:editor>
+	<bib:pages>43-75</bib:pages>
+	<bib:address>Oxford, U.K.</bib:address>
+      </bib:incollection>
+    </bib:entry>
+    <bib:entry id="hunter">
+      <bib:book>
+	<bib:author>Hunter, M. Jnr</bib:author>
+	<bib:title>Fundamentals of Conservation Biology</bib:title>
+	<bib:publisher>Blackwell Science</bib:publisher>
+	<bib:year>2002</bib:year>
+	<bib:address>Massachusetts, U.S.A</bib:address>
+	<bib:edition>Second Edition</bib:edition>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="myers">
+      <bib:article>
+	<bib:author>
+	  Myers, N., R.A. Mittermeier, C.G. Mittermeier, G.A.B. da
+	  Fonseca and J. Kent
+	</bib:author>
+	<bib:title>
+	  Biodiversity hotspots for conservation priorities
+	</bib:title>
+	<bib:journal>Nature</bib:journal>
+	<bib:year>2000</bib:year>
+	<bib:volume>403</bib:volume>
+	<bib:pages>853-858</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="conservationintl">
+      <bib:misc>
+	<bib:author>Conservation International</bib:author>
+	<bib:title>Biodiversity Hotspots</bib:title>
+	<bib:year>2002</bib:year>
+	<bib:note>
+	  Available from:
+	  http://www.biodiversityhotspots.org/xp/Hotspots (accessed
+	  May 11, 2003)
+	</bib:note>
+      </bib:misc>
+    </bib:entry>
+
+    <bib:entry id="robertsplus">
+      <bib:article>
+	<bib:author>
+	  Roberts, C.M., C.J. McClean, J.E.N. Veron, J.P. Hawkins,
+	  G.R. Allen, D.E. McAllister, C.G. Mittermeier,
+	  F.W. Schueler, M. Spalding, F. Wells, C. Vynne, and
+	  T.B. Werner
+	</bib:author>
+	<bib:title>
+	  Marine biodiversity hotspots and conservation priorities for
+	  tropical reefs
+	</bib:title>
+	<bib:journal>Science</bib:journal>
+	<bib:year>2002</bib:year>
+	<bib:volume>295</bib:volume>
+	<bib:pages>1280-1284</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="sechrestplus">
+      <bib:article>
+	<bib:author>
+	  Sechrest, W., T.M. Brooks, G.A.B. da Fonseca, W.R. Konstant,
+	  R.A. Mittermeier, A. Purvis, A.B. Rylands, and
+	  J.L. Gittleman
+	</bib:author>
+	<bib:title>
+	  Hotspots and the conservation of evolutionary history
+	</bib:title>
+	<bib:journal>
+	  Proceedings of the National Academy of Sciences
+	</bib:journal>
+	<bib:year>2002</bib:year>
+	<bib:volume>99</bib:volume>
+	<bib:number>4</bib:number>
+	<bib:pages>2067-2071</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="karandmar">
+      <bib:article>
+	<bib:author>Kareiva, P. and M. Marvier</bib:author>
+	<bib:title>
+	  Conserving biodiversity coldspots
+	</bib:title>
+	<bib:journal>American Scientist</bib:journal>
+	<bib:year>2003</bib:year>
+	<bib:volume>91</bib:volume>
+	<bib:pages>344-351</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="walter">
+      <bib:book>
+	<bib:author>Walter, H.</bib:author>
+	<bib:title>
+	  Vegetation of the Earth and ecological systems of the
+	  geo-biosphere
+	</bib:title>
+	<bib:publisher>Springer-Verlag</bib:publisher>
+	<bib:year>1985</bib:year>
+	<bib:address>New York, New York, U.S.A.</bib:address>
+	<bib:edition>Third, revised and enlarged edition</bib:edition>
+	<bib:note>
+	  translated from the fifth, revised German edition by Owen
+	  Muise
+	</bib:note>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+
+</document>

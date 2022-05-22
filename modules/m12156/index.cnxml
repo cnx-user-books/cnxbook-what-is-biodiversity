@@ -1,0 +1,192 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/"> <title>Ecosystem
+Diversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a9deb31a-b94e-4200-b6cb-af8c7c2a1c05</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      An <term target-id="ecosystem">ecosystem</term> is a community plus
+      the physical environment that it occupies at a given time. An
+      ecosystem can exist at any scale, for example, from the size of
+      a small tide pool up to the size of the entire biosphere.
+      However, lakes, marshes, and forest stands represent more
+      typical examples of the areas that are compared in discussions
+      of ecosystem diversity.</para>
+
+    <para id="para1b">
+      Broadly speaking, the diversity of an ecosystem is dependent on
+      the physical characteristics of the environment, the diversity
+      of species present, and the interactions that the species have
+      with each other and with the environment. Therefore, the
+      functional complexity of an ecosystem can be expected to
+      increase with the number and taxonomic diversity of the species
+      present, and the vertical and horizontal complexity of the
+      physical environment. However, one should note that some
+      ecosystems (such as submarine black smokers, or hot springs)
+      that do not appear to be physically complex, and that are not
+      especially rich in species, may be considered to be functionally
+      complex.  This is because they include species that have
+      remarkable biochemical specializations for surviving in the
+      harsh environment and obtaining their energy from inorganic
+      chemical sources (<foreign>e.g.</foreign>, see discussions of
+      <cite target-id="roth"><cite-title>Rothschild and Mancinelli,
+      2001</cite-title></cite>).</para>
+
+    <para id="para2">
+      The physical characteristics of an environment that affect
+      ecosystem diversity are themselves quite complex (as previously
+      noted for <link document="m12150">community
+      diversity</link>). These characteristics include, for example,
+      the temperature, precipitation, and topography of the
+      ecosystem. Therefore, there is a general trend for warm tropical
+      ecosystems to be richer in species than cold temperate
+      ecosystems (see "<link document="m12173">Spatial gradients in
+      biodiversity</link>"). Also, the energy flux in the environment
+      can significantly affect the ecosystem. An exposed coastline
+      with high wave energy will have a considerably different type of
+      ecosystem than a low-energy environment such as a sheltered salt
+      marsh. Similarly, an exposed hilltop or mountainside is likely
+      to have stunted vegetation and low species diversity compared to
+      more prolific vegetation and high species diversity in sheltered
+      valleys (see <cite target-id="walter"><cite-title>Walter, 1985</cite-title></cite>, and <cite target-id="smith"><cite-title>Smith, 1990</cite-title></cite> for general discussions on
+      factors affecting ecosystems, and comparative ecosystem
+      ecology). </para>
+
+
+    <para id="para4">
+      Environmental disturbance on a variety of temporal and spatial
+      scales can affect the species richness and, consequently, the
+      diversity of an ecosystem. For example, river systems in the
+      North Island of New Zealand have been affected by volcanic
+      disturbance several times over the last 25,000 years. Ash-laden
+      floods running down the rivers would have extirpated most of the
+      fish fauna in the rivers, and recolonization has been possible
+      only by a limited number of diadromous species
+      (<foreign>i.e.</foreign>, species, like eels and salmons, that
+      migrate between freshwater and seawater at fixed times during
+      their life cycle). Once the disturbed rivers had recovered, the
+      diadromous species would have been able to recolonize the rivers
+      by dispersal through the sea from other unaffected rivers (<cite target-id="mcdo"><cite-title>McDowall, 1996</cite-title></cite>). </para>
+
+    <para id="para5">
+      Nevertheless, moderate levels of occasional disturbance can also
+      increase the species richness of an ecosystem by creating
+      spatial heterogeneity in the ecosystem, and also by preventing
+      certain species from dominating the ecosystem. (See the module
+      on <link document="">Organizing Principles of the Natural
+      World</link><!-- fix cnxn; new topic--> for further discussion).
+    </para>
+
+    <para id="para3">
+      Ecosystems may be classified according to the dominant type of
+      environment, or dominant type of species present; for example, a
+      salt marsh ecosystem, a rocky shore intertidal ecosystem, a
+      mangrove swamp ecosystem. Because temperature is an important
+      aspect in shaping ecosystem diversity, it is also used in
+      ecosystem classification (<foreign>e.g.</foreign>, cold winter
+      deserts, versus warm deserts) (<cite target-id="udvardy"><cite-title>Udvardy,
+      1975</cite-title></cite>).
+    </para>
+
+    <para id="paraft">While the physical characteristics of an area
+	will significantly influence the diversity of the species
+	within a community, the organisms can also modify the physical
+	characteristics of the ecosystem. For example, stony corals
+	(Scleractinia) are responsible for building the extensive
+	calcareous structures that are the basis for coral reef
+	ecosystems that can extend thousands of kilometers
+	(<foreign>e.g.</foreign> Great Barrier Reef). There are less
+	extensive ways in which organisms can modify their
+	ecosystems. For example, trees can modify the microclimate and
+	the structure and chemical composition of the soil around
+	them. For discussion of the geomorphic influences of various
+	invertebrates and vertebrates see (<cite target-id="butler"><cite-title>Butler,
+	1995</cite-title></cite>) and, for further discussion of ecosystem
+	diversity see the module on <link document="">Processes and
+	functions of ecological systems</link> <!-- fix cnxn; new
+	topic-->.
+    </para>
+
+  </content>
+
+  <glossary>
+    <definition id="ecosystem">
+      <term>Ecosystem</term>
+      <meaning id="idp6598864">
+	a community plus the physical environment that it occupies at
+	a given time
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="butler">
+      <bib:book>
+	<bib:author>Butler, D.R.</bib:author>
+	<bib:title>Zoogeomorphology</bib:title>
+	<bib:publisher>Cambridge University Press</bib:publisher>
+	<bib:year>1995</bib:year>
+	<bib:address>Cambridge, U.K.</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="udvardy">
+      <bib:techreport>
+	<bib:author>Udvardy, M.D.F.</bib:author>
+	<bib:title>
+	  A classification of the biogeographical provinces of the
+	  world
+	</bib:title>
+	<bib:institution>
+	  International Union for the Conservation of Nature and
+	  Natural Resources
+	</bib:institution>
+	<bib:year>1975</bib:year>
+	<bib:number>Occasional Paper no. 18</bib:number>
+	<bib:address>Gland, Switzerland</bib:address>
+      </bib:techreport>
+    </bib:entry>
+
+    <bib:entry id="walter">
+      <bib:book>
+	<bib:author>Walter, H.</bib:author>
+	<bib:title>
+	  Vegetation of the Earth and ecological systems of the
+	  geo-biosphere
+	</bib:title>
+	<bib:publisher>Springer-Verlag</bib:publisher>
+	<bib:year>1985</bib:year>
+	<bib:address>New York, New York, U.S.A.</bib:address>
+	<bib:edition>Third, revised and enlarged edition</bib:edition>
+	<bib:note>
+	  translated from the fifth, revised German edition by Owen
+	  Muise
+	</bib:note>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="smith">
+      <bib:book>
+	<bib:author>Smith, R.L.</bib:author> <bib:title>Ecology and
+	Field Biology</bib:title> <bib:publisher>Harper
+	Collins</bib:publisher> <bib:year>1990</bib:year>
+	<bib:address>New York, New York, U.S.A.</bib:address>
+	<bib:edition>Fourth edition</bib:edition>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="roth">
+      <bib:article>
+	<bib:author>Rothschild, L.J. and R.L. Mancinelli</bib:author>
+	<bib:title>Life in extreme environments</bib:title>
+	<bib:journal>Nature </bib:journal> <bib:year>2001</bib:year>
+	<bib:volume>409</bib:volume> <bib:pages>1092-1101</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="mcdo">
+      <bib:article>
+	<bib:author>McDowall, R.M.</bib:author> <bib:title>Volcanism
+	and freshwater fish biogeography in the northeastern North
+	Island of New Zealand</bib:title> <bib:journal>Journal of
+	Biogeography</bib:journal> <bib:year>1996</bib:year>
+	<bib:volume>23</bib:volume> <bib:pages>139-148</bib:pages>
+	</bib:article> </bib:entry> </bib:file> </document>

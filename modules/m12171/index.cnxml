@@ -1,0 +1,202 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Population Diversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>831dd81f-38d3-4e23-bd66-162a05a75267</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      A <term target-id="population">population</term> is a group of
+      individuals of the same species that share aspects of their
+      genetics or <term target-id="demography">demography</term> more
+      closely with each other than with other groups of individuals of
+      that species (where demography is the statistical characteristic
+      of the population such as size, density, birth and death rates,
+      distribution, and movement of migration).
+    </para>
+
+    <para id="para2">
+      Population diversity may be measured in terms of the variation
+      in genetic and morphological features that define the different
+      populations. The diversity may also be measured in terms of the
+      populations' demographics, such as numbers of individuals
+      present, and the proportional representation of different age
+      classes and sexes. However, it can be difficult to measure
+      demography and genetics (<foreign>e.g.</foreign>, allele
+      frequencies) for all species. Therefore, a more practical way of
+      defining a population, and measuring its diversity, is by the
+      space it occupies. Accordingly, a <term target-id="population">population</term> is a group of individuals of
+      the same species occupying a defined area at the same time
+      (<cite target-id="hunterb"><cite-title>Hunter, 2002: 144</cite-title></cite>). The area
+      occupied by a population is most effectively defined by the
+      ecological boundaries that are important to the population (for
+      example, a particular region and type of vegetation for a
+      population of beetles, or a particular pond for a population of
+      fish).
+    </para>
+
+    <para id="para3">
+      The geographic range and distribution of populations
+      (<foreign>i.e.</foreign>, their spatial structure) represent key
+      factors in analyzing population diversity because they give an
+      indication of likelihood of movement of organisms between
+      populations and subsequent genetic and demographic
+      interchange. Similarly, an estimate of the overall population
+      size provides a measure of the potential genetic diversity
+      within the population; large populations usually represent
+      larger gene pools and hence greater potential diversity (see
+      <link document="m12158">Genetic diversity</link>).
+    </para>
+
+    <para id="para4">
+      Isolated populations, with very low levels of interchange, show
+      high levels of genetic divergence (<cite target-id="hunterb"><cite-title>Hunter,
+      2002: 145</cite-title></cite>), and exhibit unique adaptations to the
+      biotic and abiotic characteristics of their habitat.  The
+      genetic diversity of some groups that generally do not disperse
+      well - such as amphibians, mollusks, and some herbaceous plants
+      - may be mostly restricted to local populations (<cite target-id="avise"><cite-title>Avise, 1994</cite-title></cite>).  For this reason, range
+      retractions of species can lead to loss of local populations and
+      the genetic diversity they hold.  Loss of isolated populations
+      along with their unique component of genetic variation is
+      considered by some scientists to be one of the greatest but most
+      overlooked tragedies of the biodiversity crisis (<cite target-id="ehrlichandraven"><cite-title>Ehrlich &amp; Raven 1969</cite-title></cite>).
+    </para>
+
+    <para id="para5">
+      Populations can be categorized according to the level of
+      divergence between them. Isolated and genetically distinct
+      populations of a single species may be referred to as subspecies
+      according to some (but not all) species concepts. Populations
+      that show less genetic divergence might be recognized as
+      <term>variants</term> or <term>races.</term> However, the
+      distinctions between subspecies and other categories can be
+      somewhat arbitrary (see <link document="m12174">Species
+      diversity</link>).
+    </para>
+
+    <para id="para6">
+      A species that is ecologically linked to a specialized, patchy habitat
+      may likely assume the patchy distribution of the habitat itself,
+      with several different populations distributed at different
+      distances from each other. This is the case, for example, for
+      species that live in wetlands, alpine zones on mountaintops,
+      particular soil types or forest types, springs, and many other
+      comparable situations. Individual organisms may periodically
+      disperse from one population to another, facilitating genetic
+      exchange between the populations. This group of different but
+      interlinked populations, with each different population located
+      in its own, discrete patch of habitat, is called a
+      <term target-id="metapop">metapopulation</term>.
+    </para>
+
+    <para id="para7">
+      There may be quite different levels of dispersal between the
+      constituent populations of a metapopulation. For example, a
+      large or overcrowded population patch is unlikely to be able to
+      support much immigration from neighboring populations; it can, 
+      however, act as a <term target-id="source">source</term> of dispersing
+      individuals that will move away to join other populations or
+      create new ones. In contrast, a small population is
+      unlikely to have a high degree of emigration;
+      instead, it can receive a high degree of
+      immigration. A population that requires net
+      immigration in order to sustain itself acts as a <term target-id="sink">sink</term>. The extent of genetic exchange between
+      source and sink populations depends, therefore, on the size of
+      the populations, the carrying capacity of the habitats where the
+      populations are found, and the ability of individuals to move
+      between habitats. Consequently, understanding how the patches
+      and their constituent populations are arranged within the
+      metapopulation, and the ease with which individuals are able to
+      move among them is key to describing the population diversity
+      and conserving the species. For more discussion, see the module
+      on <link document="">Metapopulations.</link><!-- future topic-->
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="population">
+      <term>Population</term>
+      <meaning id="idp130176">
+	a group of individuals of the same species that share aspects
+	of their demography or genetics more closely with each other
+	than with other groups of individuals of that species
+      </meaning>
+      <meaning id="idp1385696">
+	A population may also be defined as a group of individuals of
+	the same species occupying a defined area at the same time
+	(<cite target-id="hunterb"><cite-title>Hunter, 2002: 144</cite-title></cite>)
+      </meaning>
+    </definition>
+
+    <definition id="metapop">
+      <term>Metapopulation</term>
+      <meaning id="idm6391024">
+	a group of different but interlinked populations, with each
+	different population located in its own, discrete patch of
+	habitat
+      </meaning>
+    </definition>
+
+    <definition id="source">
+      <term>Source</term>
+      <meaning id="idp272304">
+	a population patch, in a metapopulation, from which
+	individuals disperse to other population patches or create new
+	ones
+      </meaning>
+    </definition>
+
+    <definition id="sink">
+      <term>Sink</term>
+      <meaning id="idm6058352">
+	a population patch, in a metpopulation that does not have a
+	high degree of emigration outside its boundaries but, instead,
+	requires net immigration in order to sustain itself
+      </meaning>
+    </definition>
+
+    <definition id="demography">
+      <term>Demography</term>
+      <meaning id="idp2759376">
+	the statistical characteristics of the population such as
+	size, density, birth and death rates, distribution, and
+	movement or migration.
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="hunterb">
+      <bib:book>
+	<bib:author>Hunter, M. Jnr.</bib:author>
+	<bib:title>Fundamentals of Conservation Biology</bib:title>
+	<bib:publisher>Blackwell Science</bib:publisher>
+	<bib:year>2002</bib:year>
+	<bib:address>Massachusetts, U.S.A.</bib:address>
+	<bib:edition>Second Edition</bib:edition>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="avise">
+      <bib:book>
+	<bib:author>Avise, J. C.</bib:author>
+	<bib:title>Molecular markers, natural history, and evolution</bib:title>
+	<bib:publisher>Chapman and Hall</bib:publisher>
+	<bib:year>1994</bib:year>
+	<bib:address>New York, U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="ehrlichandraven">
+      <bib:article>
+	<bib:author>Ehrlich, P. R. and P. H. Raven</bib:author>
+	<bib:title>Differentiation of populations</bib:title>
+	<bib:journal>Science</bib:journal>
+	<bib:year>1969</bib:year>
+	<bib:volume>165</bib:volume>
+	<bib:pages>1228-1232</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+  
+</document>

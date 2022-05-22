@@ -1,0 +1,138 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ecological Value</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>83fbab03-c255-48dc-aeb0-dc991a2aee2f</md:uuid>
+</metadata>
+
+  <content>
+  
+    <para id="para1">Natural communities are finely-tuned systems,
+    where each species has an <term target-id="ecological">ecological
+    value</term> to the other species that are part of that
+    ecosystem. Species diversity increases an ecosystem's
+    stability and resilience, in particular its ability to adapt and
+    respond to changing environmental conditions. If a certain amount,
+    or type (such as a keystone species) of species are lost,
+    eventually it leads to the loss of ecosystem function. Many
+    ecosystems though have built-in redundancies so that two or more
+    species' functions may overlap. Because of these
+    redundancies, several changes in the number or type of species may
+    not impact an ecosystem. However, not all species within an
+    ecosystem are of the same importance. Species that are important
+    due to their sheer numbers are often called <term target-id="dominant">dominant species</term>.  These species make up the
+    most biomass of an ecosystem.  Species that have important
+    ecological roles that are greater than one would expect based on
+    their abundance are called <term target-id="keystone">keystone
+    species</term>.  These species are often central to the structure
+    of an ecosystem, removal of one or several keystone species may
+    have consequences immediately, or decades or centuries later
+    (<cite target-id="Jackson"><cite-title>Jackson <foreign>et
+    al</foreign>. 2001</cite-title></cite>). Ecosystems are complex and difficult
+    to study, thus it is often difficult to predict which species are
+    keystone species. The impact of removing an individual or several
+    keystone species from kelp forests in the Pacific is examined in
+    <link target-id="ex1"/>. </para>
+		
+    <example id="ex1">
+      <title>Northern Pacific Kelp Forests</title> 
+      
+      <para id="para2">Kelp forests, as their name suggests, are
+      dominated by kelp, a brown seaweed of the family Laminariales.
+      They are found in shallow, rocky habitats from temperate to
+      subarctic regions, and are important ecosystems for many
+      commercially valuable fish and invertebrates.</para>
+      
+      <para id="para3">Vast forests of kelp and other marine plants
+	existed in the northern Pacific Ocean prior to the 18th
+	century. The kelp was eaten by herbivores such as sea urchins
+	(Family Strongylocentrotidae), which in turn were preyed upon
+	by predators such as sea otters (<foreign>Enhydra
+	lutris</foreign>).  Hunting during the 18th and 19th centuries
+	brought sea otters to the brink of extinction.  In the absence
+	of sea otters, sea urchin populations burgeoned and grazed
+	down the kelp forests, at the extreme creating
+	"urchin barrens," where the kelp was
+	completely eradicated. Other species dependent on kelp (such
+	as red abalone <foreign>Haliotis rufescens</foreign>) were
+	affected too. Legal protection of sea otters in the 20th
+	century led to partial recovery of the system.</para>
+
+      <para id="para4">More recently sea otter populations in Alaska
+	seem to be threatened by increased predation from killer
+	whales (<foreign>Orcinus orca</foreign>) (<cite target-id="Estes"><cite-title>Estes <foreign>et al</foreign>. 1998</cite-title></cite>).  It
+	appears that whales may have shifted their diet to sea otters
+	when populations of their preferred prey, Stellar sea lions
+	(<foreign>Arctocephalus townsendi</foreign>) and Harbor seals
+	(<foreign>Phoca vitulina</foreign>) declined. The exact reason
+	for the decline in the sea lion and seal populations is still
+	unclear, but appears to be due to declines in their prey in
+	combination with increased fishing and higher ocean
+	temperatures.  As a result of the loss of sea otters,
+	increased sea urchin populations are grazing down kelp beds
+	again.</para>
+
+    </example>
+    <example id="ex2">
+      <title>Southern Californian Kelp Forests</title> 
+      
+      <para id="para5">Interestingly, a similar scenario in kelp
+	forests in Southern California did not show immediate effects
+	after the disappearance of sea otters from the ecosystem. This
+	is because the system was more diverse initially. Other
+	predators (California sheephead fish, <foreign>Semicossyphus
+	pulcher</foreign>, and spiny lobsters, <foreign>Panulirus
+	interruptus</foreign>) and competitors (abalone
+	<emphasis>Haliotis spp</emphasis>) of the sea urchin helped
+	maintain the system.  However, when these predators and
+	competitors were over-harvested as well in the 1950s, the kelp
+	forests declined drastically as sea urchin populations
+	boomed.</para>
+	
+	<para id="para6">In the 1970s and 1980s, a sea urchin fishery
+	developed which then enabled the kelp forest to
+	recover. However, it left a system with little diversity.  The
+	interrelationships among these species and the changes that
+	reverberate through systems as species are removed are
+	mirrored in other ecosystems on the planet, both aquatic and
+	terrestrial.</para>
+		
+      <para id="para7">As this example illustrates, biodiversity is
+	incredibly complex and conservation efforts cannot focus on
+	just one species or even on events of the recent past.
+      </para>
+    </example>
+  </content>
+  <glossary id="glossary1">
+    <definition id="ecological">
+      <term>ecological value</term>
+      <meaning id="idm1310272">the values that each species has as part of an ecosystem</meaning>
+		</definition>
+    <definition id="dominant">
+      <term>dominant species</term>
+
+      <meaning id="idp9127072">species that are important due to their sheer numbers
+      in an ecosystem</meaning>
+
+    </definition>
+    <definition id="keystone">
+      <term>keystone species</term>
+
+      <meaning id="idp8606160">species that have important ecological roles that are
+      greater than one would expect based on their abundance</meaning>
+
+    </definition>
+  </glossary>
+  <!--
+  <bib:file>
+    
+    <bib:entry id='Jackson'>
+      NOT IN THE BIBLIOGRAPHY
+    <bib:entry>
+    
+   
+    <bib:entry id='Estes'>
+      NOT IN THE BIBLIOGRAPHY
+    <bib:entry>
+     
+  </bib:file>
+  -->
+</document>

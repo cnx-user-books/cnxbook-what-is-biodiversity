@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Extinction</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ea14ae39-ce2b-4f2c-8b23-266c5d4d5d7c</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      <term target-id="extinction">Extinction</term> (the complete
+      disappearance of a species from Earth) is an important part of
+      the evolution of life on Earth. The current diversity of species
+      is a product of the processes of extinction and speciation
+      throughout the previous 3.8 billion year history of life. Raup
+      (<cite target-id="raup"><cite-title>1991</cite-title></cite>) assumed that there might be 40
+      million species alive today, but between 5 and 50 billion
+      species have lived at some time during the history of the
+      Earth. Therefore, Raup estimated that 99.9% of all the life that
+      has existed on Earth is now <term target-id="extinct">extinct</term>); a species is assumed to be
+      extinct when there is no reasonable doubt that the last
+      individual has died (<cite target-id="iucn"><cite-title>IUCN, 2002</cite-title></cite>).
+      However, extinction has not occurred at a constant pace through
+      the Earth’s history. There have been at least five
+      periods when there has been a sudden increase in the rate of
+      extinction, such that the rate has at least doubled, and the
+      extinctions have included representatives from many different
+      taxonomic groups of plants and animals; these events are called
+      <term target-id="massextinction">mass extinctions</term>.  The timing
+      of these mass extinctions is shown in <link target-id="table3"/>.
+      <figure id="table3">
+	<media id="idp790448" alt=""><image src="../../media/extinction.png" mime-type="image/png"/></media>
+      </figure>
+    </para>
+
+    <para id="para2">
+      Each of the first five mass extinctions shown in <link target-id="table3"/> represents a significant loss of biodiversity
+      - but recovery has been good on a geologic time scale. Mass
+      extinctions are apparently followed by a sudden burst of
+      evolutionary diversification on the part of the remaining
+      species, presumably because the surviving species started using
+      habitats and resources that were previously "occupied" by more
+      competitively successful species that went extinct.  However,
+      this does not mean that the recoveries from mass extinction have
+      been rapid; they have usually required some tens of millions of
+      years (<cite target-id="jablonski"><cite-title>Jablonski, 1995</cite-title></cite>).
+    </para>
+
+    <para id="para3">
+      It is hypothesized that we are currently on the brink of a
+      "sixth mass extinction," but one that differs from previous
+      events.  The five other mass extinctions predated humans and
+      were probably the ultimate products of some physical process
+      (<foreign>e.g.</foreign> climate change through meteor impacts),
+      rather than the direct consequence of the action of some other
+      species. In contrast, the sixth mass extinction is the product
+      of human activity over the last several hundred, or even several
+      thousand years. These mass extinctions, and their historic and
+      modern consequences are discussed in more detail in the modules
+      on <link document="">Historical perspectives on extinction and
+      the current biodiversity crisis</link>, and<!-- these cnxns are
+      to other topics; fix later--> <link document="">Ecological
+      consequences of extinctions.</link>.
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="extinct">
+      <term>Extinct</term>
+      <meaning id="idm5351856">
+	a species is assumed to be extinct when there is no reasonable
+	doubt that the last individual has died (<cite target-id="iucn"><cite-title>IUCN, 2002</cite-title></cite>)
+      </meaning>
+    </definition>
+
+    <definition id="extinction">
+      <term>Extinction</term>
+      <meaning id="idp793456">the complete disappearance of a species from Earth</meaning>
+    </definition>
+
+    <definition id="massextinction">
+      <term>Mass extinction</term>
+      <meaning id="idm47168">
+	a period when there is a sudden increase in the rate of
+	extinction, such that the rate at least doubles, and the
+	extinctions include representatives from many different
+	taxonomic groups of plants and animals
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="raup">
+      <bib:book>
+	<bib:author>Raup, D.M.</bib:author>
+	<bib:title>Extinction: bad genes or bad luck?</bib:title>
+	<bib:publisher>W.W. Norton and Co.</bib:publisher>
+	<bib:year>1991</bib:year>
+	<bib:address>New York, New York, U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="iucn">
+      <bib:misc>
+	<bib:author>
+	  [IUCN] International Union for the Conservation of Nature
+	  and Natural Resources
+	</bib:author>
+	<bib:title>UCN Red List of Threatened Species</bib:title>
+	<bib:year>2002</bib:year>
+	<bib:note>
+	  Available from: http://www.redlist.org (accessed March 11, 2003)
+	</bib:note>
+      </bib:misc>
+    </bib:entry>
+
+    <bib:entry id="jablonski">
+      <bib:incollection>
+	<bib:author>Jablonski, D.</bib:author>
+	<bib:title>Extinctions in the fossil record</bib:title>
+	<bib:booktitle>Extinction rates</bib:booktitle>
+	<bib:publisher>Oxford University Press</bib:publisher>
+	<bib:year>1995</bib:year>
+	<bib:editor>J.H. Lawton and R.M. May</bib:editor>
+	<bib:pages>25-44</bib:pages>
+	<bib:address>Oxford, U.K.</bib:address>
+      </bib:incollection>
+    </bib:entry>
+  </bib:file>
+  
+</document>

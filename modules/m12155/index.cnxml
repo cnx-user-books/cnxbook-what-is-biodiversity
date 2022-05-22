@@ -1,0 +1,112 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Ecoregions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1b69f2ac-61ca-472f-b4a9-8094fc275a80</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">Since the 1980s, there has been an increasing
+    tendency to map biodiversity over "ecosystem regions" or
+    "ecoregions". An <term target-id="ecoregion">ecoregion</term> is "a
+    relatively large unit of land or water containing a geographically
+    distinct assemblage of species, natural communities, and
+    environmental conditions" (<cite target-id="wwf"><cite-title>WWF, 1999</cite-title></cite>);
+    thus, the ecosystems within an ecoregion have certain distinct
+    characters in common (<cite target-id="bail"><cite-title>Bailey, 1998a</cite-title></cite>).
+    Several standard methods of classifying ecoregions have been
+    developed, with climate, altitude, and predominant vegetation
+    being important criteria (<cite target-id="stein"><cite-title>Stein <foreign>et
+    al.</foreign>, 2000</cite-title></cite>).  Bailey's (1983, 1998a, b)
+    classification is one of the most widely adopted. It is a
+    hierarchical system with four levels: domains, divisions,
+    provinces and sections. </para>
+
+    <para id="para2">Domains are the largest geographic levels and are
+    defined by climate, <foreign>e.g.</foreign>, polar domain, dry
+    domain, or humid tropical domain. Domains are split into smaller
+    divisions that are defined according climate and vegetation, and
+    the divisions are split into smaller provinces that are usually
+    defined by their major plant formations. Some divisions also
+    include varieties of "mountain provinces". These generally have a
+    similar climatic regime to the neighboring lowlands but show some
+    altitudinal zonation, and they are defined according to the types
+    of zonation present. Provinces are divided into sections, which
+    are defined by the landforms present. </para>
+
+    <para id="para3">Because ecoregions are defined by their shared
+    biotic and abiotic characteristics, they represent practical units
+    on which to base conservation planning. Moreover, the hierarchical
+    nature of Bailey's ecoregion classification allows for conservation
+    management to be planned and implemented at a variety of
+    geographical levels, from small scale programs focused on discrete
+    sections, to much larger national or international projects that
+    target divisions. Olson and Dinerstein (<cite target-id="dine"><cite-title>2002</cite-title></cite>) identified 238 terrestrial or aquatic
+    ecoregions called the "Global 200" that they considered to be
+    priorities for global conservation. These ecoregions were selected
+    because they harbor exceptional biodiversity and are
+    representative of the variety of Earths ecosystems. For further
+    discussion of ecoregions see the modules on <link document="">Landscape ecology</link> and <link document="">Conservation planning on a regional
+    scale.</link><!--These are future topics -->
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="ecoregion">
+      <term>Ecoregion</term>
+      <meaning id="idm296576">
+	a relatively large unit of land or water containing a
+	geographically distinct assemblage of species, natural
+	communites, and environmental conditions (<cite target-id="wwf"><cite-title>WWF, 1999</cite-title></cite>)
+      </meaning>
+    </definition>
+  </glossary>
+  
+  <bib:file>
+    <bib:entry id="bail">
+      <bib:book>
+	<bib:author>Bailey, R.G.</bib:author> <bib:title>Ecoregions:
+	the ecosystem geography of the oceans and
+	continents</bib:title>
+	<bib:publisher>Springer-Verlag</bib:publisher>
+	<bib:year>1998a</bib:year> <bib:address>New York,
+	U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="dine">
+      <bib:article>
+	<bib:author>Olson, D.M. and E. Dinerstein</bib:author>
+	<bib:title>The Global 200: priority ecoregions for global
+	conservation</bib:title> <bib:journal>Annals of the Missouri
+	Botanical Garden</bib:journal> <bib:year>2002</bib:year>
+	<bib:volume>89</bib:volume> <bib:pages>199-224</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="wwf">
+      <bib:misc>
+	<bib:author>[WWF] Worldwide Fund for Nature</bib:author>
+	<bib:title>WWF in action. Ecoregion-based
+	  conservation</bib:title>
+	<bib:howpublished>
+	  Available from:
+	  http://www.panda.org/resources/publications/sustainability/global/eco-based.html
+	  (accessed June 19, 2002)
+	</bib:howpublished>
+	<bib:year>1999</bib:year>
+	<bib:note>WWF's Global Conservation Programme 1999/2000</bib:note>
+      </bib:misc>
+    </bib:entry>
+
+    <bib:entry id="stein">
+      <bib:book>
+	<bib:author>Stein, B.A., L.S. Kutner, and
+	  J.S. Adams</bib:author>
+	<bib:title>
+	  Precious heritage: the status of biodiversity in the United
+	  States
+	</bib:title>
+	<bib:publisher>Oxford University Press</bib:publisher>
+	<bib:year>2000</bib:year>
+	<bib:address>Oxford, U.K.</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+</document>

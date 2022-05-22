@@ -1,0 +1,114 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/"> <title>Community
+  Diversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5b4c5659-9f65-4db8-a755-7da88154a6df</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      A <term target-id="community">community</term> comprises the
+      populations of different species that naturally occur and
+      interact in a particular environment. Some communities are
+      relatively small in scale and may have well-defined
+      boundaries. Some examples are: species found in or around a
+      desert spring, the collection of species associated with
+      ripening figs in a tropical forest, those clustered around a
+      hydrothermal vent on the ocean floor, those in the spray zone of
+      a waterfall, or under warm stones in the alpine zone on a
+      mountaintop. Other communities are larger, more complex, and may
+      be less clearly defined, such as old-growth forests of the
+      northwest coast of North America, lowland fen communities of the
+      British Isles, or the community of freshwater species of Lake
+      Baikal.
+    </para>
+
+    <para id="para2">Sometimes biologists apply the term "community"
+    to a subset of organisms within a larger community. For example,
+    some biologists may refer to the "community" of species
+    specialized for living and feeding entirely in the forest canopy,
+    whereas other biologists may refer to this as part of a larger
+    forest community. This larger forest community includes those
+    species living in the canopy, those on the forest floor, and those
+    moving between these two habitats, as well as the functional
+    interrelationships between all of these. Similarly, some
+    biologists working on ecosystem management might distinguish
+    between the community of species that are endemic to an area
+    (<foreign>e.g.</foreign> species that are endemic to an island) as
+    well as those "exotic" species that have been introduced to that
+    area. The introduced species form part of the larger, modified
+    community of the area, but might not be considered as part of the
+    regions original and distinctive community.
+    </para>
+
+    <para id="para3">Communities are frequently classified by their
+    overall appearance, or <term>physiognomy</term>. For example,
+    coral reef communities are classified according to the appearance
+    of the reefs where they are located, <foreign>i.e.</foreign>,
+    fringing reef communities, barrier reef communities, and atoll
+    communities. Similarly, different stream communities may be
+    classified by the physical characteristics of that part of the
+    stream where the community is located, such as riffle zone
+    communities and pool communities. However, one of the easiest, and
+    hence most frequent methods of community classification is based
+    on the dominant types of species present for example, intertidal
+    mussel bed communities, Ponderosa pine forest communities of the
+    Pacific northwest region of the U.S., or Mediterranean scrubland
+    communities. Multivariate statistics provide more complex methods
+    for diagnosing communities, for example, by arranging species on
+    coordinate axes (<foreign>e.g.</foreign>, x-y axes) that represent
+    gradients in environmental factors such as temperature or
+    humidity. For more information, see the module on "<link document="">Natural communities in space and time."</link><!-- new
+    topic; fix cnxn-->
+    </para>
+
+    <para id="para4">The factors that determine the diversity of a
+    community are extremely complex. There are many theories on what
+    these factors are and how they determine community and ecosystem
+    diversity. Environmental factors, such as temperature,
+    precipitation, sunlight, and the availability of inorganic and
+    organic nutrients are very important in shaping communities and
+    <term target-id="ecos">ecosystems</term>. <cite target-id="hunt"><cite-title>Hunter
+    (2002: 81)</cite-title></cite> notes that, generally speaking, organisms can
+    persist and evolve in places where there are sufficient
+    environmental resources for the organisms to channel energy into
+    growth and reproduction rather than simply the metabolic
+    requirements for survival. In other words, organisms are less
+    likely to thrive in a harsh environment with low energy
+    resources. One way of measuring community diversity is to examine
+    the energy flow through food webs that unite the species within
+    the community; the extent of community diversity can be measured
+    by the number of links in the food web. However, in practice, it
+    can be very difficult to quantify the functional interactions
+    between the species within a community. It is easier to measure
+    the genetic diversity of the populations in the community, and to
+    count the numbers of species present, and use these measures of
+    genetic diversity and species richness as proxies for describing
+    the functional diversity of the community. The evolutionary or
+    taxonomic diversity of the species present is another way of
+    measuring the diversity of a community, for application to
+    conservation biology.
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="ecos">
+      <term>Ecosystem</term> <meaning id="idm166560">a community plus the physical
+      environment that it occupies at a given time.</meaning>
+    </definition>
+    <definition id="community">
+      <term>Community</term>
+      <meaning id="idm7704304">
+	the populations of different species that naturally occur and
+	interact in a particular environment
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="hunt">
+      <bib:book>
+	<bib:author>Hunter, M. Jnr.</bib:author>
+	<bib:title>Fundamentals of Conservation Biology. Second
+	Edition.</bib:title> <bib:publisher>Blackwell
+	Science</bib:publisher> <bib:year>2002</bib:year>
+	<bib:address>Massachusetts, U.S.A.</bib:address> </bib:book>
+	</bib:entry> </bib:file> </document>

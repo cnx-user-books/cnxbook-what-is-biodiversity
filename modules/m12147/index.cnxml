@@ -1,0 +1,242 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/"> <title>Alpha, Beta,
+  and Gamma Diversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b7c8bf78-7538-41bd-a603-bf3ada1631f1</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      <cite target-id="whitaker"><cite-title>Whittaker (1972)</cite-title></cite> described three
+	terms for measuring biodiversity over spatial scales: alpha,
+	beta, and gamma diversity. <term target-id="alpha">Alpha
+	diversity</term> refers to the diversity within a particular
+	area or ecosystem, and is usually expressed by the number of
+	species (<foreign>i.e.</foreign>, <term>species
+	richness</term>) in that ecosystem. For example, if we are
+	monitoring the effect that British farming practices have on
+	the diversity of native birds in a particular region of the
+	country, then we might want to compare species diversity
+	within different <term target-id="ecosystem">ecosystems</term>,
+	such as an undisturbed deciduous wood, a well-established
+	hedgerow bordering a small pasture, and a large arable
+	field. We can walk a transect in each of these three
+	ecosystems and count the number of species we see; this gives
+	us the alpha diversity for each ecosystem; see <link target-id="table5"/> (this example is based on the hypothetical
+	example given by <cite target-id="meffe"><cite-title>Meffe <foreign>et
+	al.</foreign>, 2002; Table 6.1</cite-title></cite>). </para>
+
+    <para id="para2">
+      If we examine the change in species diversity between these
+      ecosystems then we are measuring the <term target-id="beta">beta
+      diversity</term>. We are counting the total number of species
+      that are unique to each of the ecosystems being compared. For
+      example, the beta diversity between the woodland and the
+      hedgerow habitats is 7 (representing the 5 species found in the
+      woodland but not the hedgerow, plus the 2 species found in the
+      hedgerow but not the woodland). Thus, beta diversity allows us
+      to compare diversity between ecosystems.</para>
+
+    <para id="para3">
+      <term target-id="gamma">Gamma diversity</term> is a measure of the
+	overall diversity for the different ecosystems within a
+	region. <cite><cite-title><link document="m12171" target-id="hunterb">Hunter
+	(2002: 448)</link></cite-title></cite> defines gamma diversity as
+	"geographic-scale species diversity".  In the example in <link target-id="table5"/>, the total number of species for
+	the three ecosystems 14, which represent the gamma diversity.
+    </para>
+
+    <table frame="all" id="table5" summary="">
+      <title>
+	Alpha, beta and gamma diversity for hypothetical species of
+	birds in three different ecosystems
+      </title>
+      <tgroup cols="4" align="center">	 
+	<colspec colnum="2" colname="c2"/>
+	<colspec colnum="4" colname="c4"/>
+	<thead>
+	  <row>
+	    <entry>Hypothetical species</entry>
+	    <entry>Woodland habitat</entry>
+	    <entry>Hedgerow habitat</entry>
+	    <entry>Open field habitat</entry>
+	  </row>
+	</thead>
+	<tfoot valign="middle">
+	  <row>
+	    <entry>Alpha diversity</entry>
+	    <entry>10</entry>
+	    <entry>7</entry>
+	    <entry>3</entry>
+	  </row>
+	  <row>
+	    <entry>Beta diversity</entry>
+	    <entry>Woodland vs. hedgerow: 7</entry>
+	    <entry>Hedgerow vs. open field: 8</entry>
+	    <entry>Woodland vs. open field: 13</entry>
+	  </row>
+	  <row>
+	    <entry>Gamma diversity</entry>
+	    <entry namest="c2" nameend="c4" align="center">14</entry>
+	  </row>
+	</tfoot>
+	<tbody valign="middle">
+	  <row>
+	    <entry>A</entry>
+	    <entry>X</entry>
+	    <entry/>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>B</entry>
+	    <entry>X</entry>
+	    <entry/>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>C</entry>
+	    <entry>X</entry>
+	    <entry/>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>D</entry>
+	    <entry>X</entry>
+	    <entry/>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>E</entry>
+	    <entry>X</entry>
+	    <entry/>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>F</entry>
+	    <entry>X</entry>
+	    <entry>X</entry>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>G</entry>
+	    <entry>X</entry>
+	    <entry>X</entry>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>H</entry>
+	    <entry>X</entry>
+	    <entry>X</entry>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>I</entry>
+	    <entry>X</entry>
+	    <entry>X</entry>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>J</entry>
+	    <entry>X</entry>
+	    <entry>X</entry>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>K</entry>
+	    <entry/>
+	    <entry>X</entry>
+	    <entry/>
+	  </row>
+	  <row>
+	    <entry>L</entry>
+	    <entry/>
+	    <entry>X</entry>
+	    <entry>X</entry>
+	  </row>
+	  <row>
+	    <entry>M</entry>
+	    <entry/>
+	    <entry/>
+	    <entry>X</entry>
+	  </row>
+	  <row>
+	    <entry>N</entry>
+	    <entry/>
+	    <entry/>
+	    <entry>X</entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </table>
+
+  </content>
+
+  <glossary>
+    <definition id="ecosystem">
+      <term>Ecosystem</term>
+      <meaning id="idp2864480">
+	a community plus the physical environment that it occupies at
+	a given time
+      </meaning>
+    </definition>
+
+    <definition id="alpha">
+      <term>Alpha diversity</term>
+      <meaning id="idm589616">
+	the diversity within a particular area or ecosystem; usually
+	expressed by the number of species (<foreign>i.e.</foreign>,
+	species richness) in that ecosystem
+      </meaning>
+    </definition>
+
+    <definition id="beta">
+      <term>Beta diversity</term>
+      <meaning id="idm412464">
+	a comparison of of diversity between ecosystems, usually
+	measured as the amount of species change between the
+	ecosystems
+      </meaning>
+    </definition>
+
+    <definition id="gamma">
+      <term>Gamma diversity</term>
+      <meaning id="idp962240">
+	a measure of the overall diversity within a large
+	region. Geographic-scale species diversity according to
+	<cite><cite-title><link document="m12171" target-id="hunterb">Hunter (2002:
+	448)</link></cite-title></cite>
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="meffe">
+      <bib:book>
+	<bib:author>Meffe, G.K., L.A. Nielsen, R.L. Knight, and
+	D.A. Schenborn</bib:author> <bib:title>Ecosystem management:
+	adaptive, community-based conservation</bib:title>
+	<bib:publisher>Island Press</bib:publisher>
+	<bib:year>2002</bib:year> <bib:address>Washington, D.C.,
+	U.S.A</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="whitaker">
+      <bib:article>
+	<bib:author>Whittaker, R.H.</bib:author> <bib:title>Evolution
+	and measurement of species diversity</bib:title>
+	<bib:journal>Taxon</bib:journal> <bib:year>1972</bib:year>
+	<bib:volume>21</bib:volume> <bib:pages>213-251</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="roberts">
+      <bib:article>
+	<bib:author>Roberts, T.R.</bib:author>
+	<bib:title>
+	  Geographical distribution of African freshwater fishes
+	</bib:title>
+	<bib:journal>
+	  Zoological Journal of the Linnean Society
+	</bib:journal>
+	<bib:year>1975</bib:year> <bib:volume>57</bib:volume>
+	<bib:pages>249-319</bib:pages> </bib:article> </bib:entry>
+	</bib:file> </document>

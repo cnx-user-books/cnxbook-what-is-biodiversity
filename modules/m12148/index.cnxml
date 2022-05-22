@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Biodiversity over Time</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4ac1d92b-9f81-47b7-a4cc-d6e61533cd54</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      The history of life on Earth is described in various
+      publications and web sites (<foreign>e.g.</foreign>, <cite target-id="speer"><cite-title>Speer, B.R. and A.G. Collins. 2000</cite-title></cite>; <cite target-id="tud"><cite-title>Tudge, 2000</cite-title></cite>; <cite target-id="lec"><cite-title>Lecointre and
+      Guyader, 2001</cite-title></cite>; <cite target-id="mad"><cite-title>Maddison, 2001</cite-title></cite>
+      <cite target-id="eld"><cite-title>Eldredge, 2002</cite-title></cite>); it is also discussed in
+      the module on Macroevolution: essentials of systematics and
+      taxonomy. For the current purpose of understanding what is
+      biodiversity, it is only necessary to note that that the
+      diversity of species, ecosystems and landscapes that surround us
+      today are the product of perhaps 3.7 billion
+      (<foreign>i.e.</foreign>, 
+      <m:math>
+	<m:cn type="e-notation">3.7<m:sep/>9</m:cn> </m:math>) to 3.85
+      billion years of evolution of life on Earth (<cite target-id="moj"><cite-title>Mojzsis <foreign>et al.</foreign>, 1996</cite-title></cite>; <cite target-id="fed"><cite-title>Fedo and Whitehouse, 2002</cite-title></cite>).</para>
+    
+    <para id="para2">
+      Thus, the evolutionary history of Earth has physically and
+      biologically shaped our contemporary environment. As noted in
+      the section on <link document="m12149">Biogeography</link>,
+      plate tectonics and the evolution of continents and ocean basins
+      have been instrumental in directing the evolution and
+      distribution of the Earth's biota. However, the physical
+      environment has also been extensively modified by these
+      biota. Many existing landscapes are based on the remains of
+      earlier life forms. For example, some existing large rock
+      formations are the remains of ancient reefs formed 360 to 440
+      million years ago by communities of algae and invertebrates
+      (<cite target-id="ver"><cite-title>Veron, 2000</cite-title></cite>). Very old communities of
+      subterranean bacteria may have been responsible for shaping many
+      geological processes during the history of the Earth, such as
+      the conversion of minerals from one form to another, and the
+      erosion of rocks (<cite target-id="fre"><cite-title>Fredrickson and Onstott,
+      1996</cite-title></cite>). The evolution of photosynthetic bacteria, sometime
+      between 3.5 and 2.75 million years ago <cite target-id="sch"><cite-title>Schopf,
+      1993</cite-title></cite>; <cite target-id="bra"><cite-title>Brasier <foreign>et al.</foreign>,
+      2002</cite-title></cite>; <cite target-id="hay"><cite-title>Hayes, 2002</cite-title></cite>), played an
+      important role in the evolution of the Earth's atmosphere. These
+      bacteria released oxygen into the atmosphere, changing it's
+      composition from the former composition of mainly carbon
+      dioxide, with other gases such as nitrogen, carbon monoxide,
+      methane, hydrogen and sulphur gases present in smaller
+      quantities. It probably took over 2 billion years for the oxygen
+      concentration to reach the level it is today (<cite target-id="hay"><cite-title>Hayes, 2002</cite-title></cite>), but the process of oxygenation
+      of the atmosphere led to important evolutionary changes in
+      organisms so that they could utilize oxygen for metabolism. The
+      rise of animal and plant life on land was associated with the
+      development of an oxygen rich atmosphere.
+</para>
+ 
+  </content>
+  
+  <bib:file>
+    <bib:entry id="bra">
+      <bib:article>
+	 <bib:author>Brasier, M.D., O.W. Green, A.P. Jephcoat, A.K. Kleppe, M.J. Van Kranendonk, J.F. Lindsay, A. Steele, and N.V. Grassineau.</bib:author>
+	<bib:title>Questioning the evidence for Earth's oldest fossils</bib:title>
+	<bib:journal>Nature</bib:journal>
+	<bib:year>2002</bib:year>
+	<bib:volume>416</bib:volume>
+	<bib:pages>76-81</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="eld">
+      <bib:book>
+	<bib:author>Eldredge, N</bib:author>
+	<bib:title>Life on Earth. Volumes 1 and 2</bib:title>
+	<bib:publisher>ABC Clio</bib:publisher>
+	<bib:year>2002</bib:year>
+	<bib:address>Santa Barbara, California, U.S.A.</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="fed">								<bib:article>
+	<bib:author>Fedo, C.M. and M.J. Whitehouse</bib:author>
+	<bib:title>Metasomatic origin of quartz-pyroxene rock, Akilia, Greenland, and it's implications for Earth's earliest life&gt;</bib:title>
+	<bib:journal>Science</bib:journal>
+	<bib:year>2002</bib:year>
+	<bib:volume>296</bib:volume>
+	<bib:pages>448-1452</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="fre">
+      <bib:article>
+	<bib:author>Fredrickson, J.K. and T.C. Onstott.</bib:author>
+	<bib:title>Microbes deep inside the Earth</bib:title>
+	<bib:journal>Scientific American.</bib:journal>
+	<bib:year>1996</bib:year>
+	<bib:pages>68-73.</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="hay">
+      <bib:article>
+	<bib:author>Hayes, J.M.</bib:author>
+	<bib:title> A lowdown on oxygen</bib:title>
+	<bib:journal>Nature</bib:journal>
+	<bib:year>2002</bib:year>
+	<bib:volume>417</bib:volume>
+	<bib:pages>127-128</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="lec">
+      <bib:book>
+	<bib:author>Lecointre, G. and H. Le Guyader</bib:author>
+	<bib:title>Classification phylogenetique du vivant</bib:title>
+	<bib:publisher>Belin</bib:publisher>
+	<bib:year>2001</bib:year>
+	<bib:address>Paris, France</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="mad">
+      <bib:book>
+	<bib:author>Maddison, D.R</bib:author>
+	<bib:title>The Tree of Life Web project. </bib:title>
+	<bib:publisher>D.R. Maddison, editor</bib:publisher>
+	<bib:year/>
+	<bib:address>http://beta.tolweb.org/tree (accessed August 20, 2003)</bib:address>
+      </bib:book>
+    </bib:entry>
+<bib:entry id="moj">
+      <bib:article>
+	<bib:author>Mojzsis, S.J., G. Arrhenius, K.D. McKeegan, T.M. Harrison, A.P. Nutman, and C.R.L. Friend</bib:author>
+	<bib:title>Evidence for life on Earth before 3,800 million years ago</bib:title>
+	<bib:journal>Nature</bib:journal>
+	<bib:year>1996</bib:year>
+	<bib:volume>403</bib:volume>
+	<bib:pages>853-858</bib:pages>
+      </bib:article>
+    </bib:entry>
+<bib:entry id="sch">
+      <bib:article>
+	<bib:author>Schopf, J.W</bib:author>
+	<bib:title>Microfossils of the Early Archean Apex Chert: new evidence of the antiquity of life.</bib:title>
+	<bib:journal>Science</bib:journal>
+	  <bib:year>1993</bib:year>
+	<bib:volume>260</bib:volume>
+	<bib:pages>640-646</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="speer">
+      <bib:book>
+	<bib:author>Speer, B.R. and A.G. Collins</bib:author>
+	<bib:title/>
+	<bib:publisher>University of California Museum of Paleontology Taxon Lift</bib:publisher>
+	<bib:year>2000</bib:year>
+	<bib:address>http://www.ucmp.berkeley.edu/help/taxaform.html (accessed August 20, 2003)</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="tud">
+      <bib:book>
+	<bib:author>Tudge, C</bib:author>
+	<bib:title>The variety of life.</bib:title>
+	<bib:publisher>Oxford University Press</bib:publisher>
+	<bib:year>2000</bib:year>
+	<bib:address>Oxford, U.K.</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="ver">
+      <bib:book>
+	<bib:author>Veron. J</bib:author>
+	<bib:title>Corals of the World.</bib:title>
+	<bib:publisher> Australian Institute of Marine Science and CRR Qld Pty Ltd.</bib:publisher>
+	<bib:year>2000</bib:year>
+	<bib:address>Townsville MC, Queensland, Australia.</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>																								       
+
+</document>

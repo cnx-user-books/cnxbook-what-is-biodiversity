@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Definition of Biodiversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b33f0858-e846-4fc1-aa6b-a0bb09a81955</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      Biodiversity, a contraction of the phrase "biological
+      diversity," is a complex topic, covering many aspects of
+      biological variation. In popular usage, the word
+      <term>biodiversity</term> is often used to describe all the
+      species living in a particular area. If we
+      consider this area at its largest scale - the entire world -
+      then biodiversity can be summarized as "life on earth." However,
+      scientists use a broader definition of biodiversity, designed to
+      include not only living organisms and their complex
+      interactions, but also interactions with the abiotic
+      (non-living) aspects of their environment. Definitions
+      emphasizing one aspect or another of this biological variation
+      can be found throughout the scientific and lay literature (see
+      <cite target-id="gaston"><cite-title>Gaston, 1996: Table 1.1</cite-title></cite>). For the
+      purposes of this module, <term target-id="biodiversity">biodiversity</term> is defined as:
+      <quote display="block" id="idm746432">
+	the variety of life on Earth at all its levels, from genes to
+	ecosystems, and the ecological and evolutionary processes that
+	sustain it.
+      </quote>
+    </para>
+
+    <para id="para1.1">
+      Genetic diversity is the “fundamental currency of
+      diversity” (<cite target-id="williamh"><cite-title>Williams and
+      Humphires, 1996</cite-title></cite>) that is responsible for variation
+      between individuals, populations and species. Therefore, it is
+      an important aspect of any discussion of biodiversity. The
+      interactions between the individual organisms
+      (<foreign>e.g.</foreign>, reproductive behavior, predation,
+      parasitism) of a population or community, and their
+      specializations for their environment (including ways in which
+      they might modify the environment itself) are important
+      functional aspects of biodiversity. These functional aspects can
+      determine the diversity of different communities and ecosystems.
+    </para>
+
+    <para id="para1.2">
+      There is also an important spatial component to
+      biodiversity. The structure of communities and ecosystems
+      (<foreign>e.g.</foreign> the number of individuals and species
+      present) can vary in different parts of the world. Similarly,
+      the function of these communities and ecosystems
+      (<foreign>i.e.</foreign> the interactions between the organisms
+      present) can vary from one place to another. Different
+      assemblages of ecosystems can characterize quite diverse
+      landscapes, covering large areas. These spatial patterns of
+      biodiversity are affected by climate, geology, and physiography
+      (<cite target-id="randr"><cite-title>Redford and Richter, 1999</cite-title></cite>).
+    </para>
+
+    <para id="para1.3">
+      The structural, functional, and spatial aspects of biodiversity
+      can vary over time; therefore there is a temporal component to
+      the analysis of biodiversity. For example, there can be daily,
+      seasonal, or annual changes in the species and number of
+      organisms present in an ecosystem and how they interact. Some
+      ecosystems change in size or structure over time
+      (<foreign>e.g.</foreign> forest ecosystems may change in size
+      and structure because of the effects of natural fires, wetlands
+      gradually silt up and decrease in size). Biodiversity also
+      changes over a longer-term, evolutionary, time-scale. Geological
+      processes (<foreign>e.g.</foreign>, <term target-id="platetectonics">plate tectonics</term>, <term target-id="orogenesis">orogenesis</term>, erosion), changes in
+      sea-level (marine transgressions and regressions), and changes
+      in climate cause significant, long-term changes to the
+      structural and spatial characteristics of global biodiversity.
+      The processes of natural selection and species evolution, which
+      may often be associated with the geological processes, also
+      result in changes to local and global flora and fauna.
+    </para>
+
+    <para id="para1.4">
+      Many people consider humans to be a part of nature, and
+      therefore a part of biodiversity. On the other hand, some people
+      (<foreign>e.g.</foreign>, <cite target-id="randr"><cite-title>Redford and
+      Richter, 1999 </cite-title></cite>) confine biodiversity to natural variety
+      and variability, excluding biotic patterns and ecosystems that
+      result from human activity, even though it is difficult to
+      assess the "naturalness" of an ecosystem because human influence
+      is so pervasive and varied ( <cite target-id="huntera"><cite-title>Hunter,
+      1996</cite-title></cite>; <cite target-id="angermeier"><cite-title>Angermeier, 2000</cite-title></cite>;
+      <cite target-id="sanderson"><cite-title>Sanderson <foreign>et
+      al.</foreign>,2002</cite-title></cite>).  If one takes humans as part of
+      nature, then cultural diversity of human populations and the
+      ways that these populations use or otherwise interact with
+      habitats and other species on Earth are a component of
+      biodiversity too. Other people make a compromise between totally
+      including or excluding human activities as a part of
+      biodiversity. These biologists do not accept all aspects of
+      human activity and culture as part of biodiversity, but they do
+      recognize that the ecological and evolutionary diversity of
+      domestic species, and the species composition and ecology of
+      agricultural ecosystems are part of biodiversity. (For further
+      discussion see the modules on <link document="">Human
+      evolution</link> and <link document="">Cultural
+      Diversity</link>; in preparation.)
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="biodiversity">
+      <term>Biodiversity</term>
+      <meaning id="idp1097328">
+	the variety of life on Earth at all its levels, from genes to
+	ecosystems, and the ecological and evolutionary processes that
+	sustain it
+      </meaning>
+    </definition>
+    <definition id="platetectonics">
+      <term>Plate Tectonics</term>
+      <meaning id="idp926096">
+	the forces acting on the large, mobile pieces 
+	(or "plates") of the Earth's lithosphere (the upper part of
+	the mantle and crust of the Earth where the rocks are rigid 
+	compared to those deeper below the Earth's surface) and the 
+	movement of those "plates".
+      </meaning>
+    </definition>
+    <definition id="orogenesis">
+      <term>Orogenesis</term>
+      <meaning id="idm357824">
+	the process of mountain building.
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="gaston">
+      <bib:incollection>
+	<bib:author>Gaston, K.J.</bib:author>
+	<bib:title>What is biodiversity?</bib:title>
+	<bib:booktitle>
+	  Biodiversity: a biology of numbers and difference
+	</bib:booktitle>
+	<bib:publisher>Blackwell Science Ltd.</bib:publisher>
+	<bib:year>1996</bib:year>
+	<bib:editor>K.J. Gaston</bib:editor>
+	<bib:pages>1-9</bib:pages>
+	<bib:address>Oxford, U.K.</bib:address>
+      </bib:incollection>
+    </bib:entry>
+    
+    <bib:entry id="williamh">
+      <bib:incollection>
+	<bib:author>Williams, P. H. and C. J. Humphries</bib:author>
+	<bib:title>Comparing character diversity among biotas</bib:title>
+	<bib:booktitle>
+	  Biodiversity: a biology of numbers and difference
+	</bib:booktitle>
+	<bib:publisher>Blackwell Science Ltd.</bib:publisher>
+	<bib:year>1996</bib:year>
+	<bib:editor>K.J. Gaston</bib:editor>
+	<bib:pages>54-76</bib:pages>
+	<bib:address>Oxford, U.K.</bib:address>
+      </bib:incollection>
+    </bib:entry>
+    
+    <bib:entry id="randr">
+      <bib:article>
+	<bib:author>Redford, K.H. and B.D. Richter</bib:author>
+	<bib:title>Conservation of biodiversity in a world of use</bib:title>
+	<bib:journal>Conservation Biology</bib:journal>
+	<bib:year>1999</bib:year>
+	<bib:volume>13</bib:volume>
+	<bib:number>6</bib:number>
+	<bib:pages>1246-1256</bib:pages>
+      </bib:article>
+    </bib:entry>
+    
+    <bib:entry id="huntera">
+      <bib:article>
+	<bib:author>Hunter, M. Jnr.</bib:author>
+	<bib:title>
+	  Benchmarks for managing ecosystems: are human activities natural?
+	</bib:title>
+	<bib:journal>Conservation Biology</bib:journal>
+	<bib:year>1996</bib:year>
+	<bib:volume>10</bib:volume>
+	<bib:number>3</bib:number>
+	<bib:pages>695-697</bib:pages>
+      </bib:article>
+    </bib:entry>
+    
+    <bib:entry id="angermeier">
+      <bib:article>
+	<bib:author>Angermeier, P.L.</bib:author>
+	<bib:title>
+	  The natural imperative for biological conservation
+	</bib:title>
+	<bib:journal>Conservation Biology</bib:journal>
+	<bib:year>2000</bib:year>
+	<bib:volume>14</bib:volume>
+	<bib:number>2</bib:number>
+	<bib:pages>373-381</bib:pages>
+      </bib:article>
+    </bib:entry>
+    
+    <bib:entry id="sanderson">
+      <bib:article>
+	<bib:author>
+	  Sanderson, E.W., M. Jaiteh, M.A. Levy, K.H. Redford,
+	  A.V. Wannebo, and G. Woolmer
+	</bib:author>
+	<bib:title>
+	  The human footprint and the last of the wild
+	</bib:title>
+	<bib:journal>BioScience</bib:journal>
+	<bib:year>2002</bib:year>
+	<bib:volume>52</bib:volume>
+	<bib:number>10</bib:number>
+	<bib:pages>891-904</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+  
+</document>

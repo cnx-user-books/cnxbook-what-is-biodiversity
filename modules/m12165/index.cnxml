@@ -1,0 +1,85 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/"> <title>Landscape
+  Diversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>142075d1-0bc7-4e35-95ea-58db00871b55</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      A <term target-id="landscape">landscape</term> is "a mosaic of
+      heterogeneous land forms, vegetation types, and land uses"
+      (<cite target-id="urban"><cite-title>Urban <foreign>et al.</foreign>,
+      1987</cite-title></cite>). Therefore, assemblages of different ecosystems
+      (the physical environments and the species that inhabit them,
+      including humans) create landscapes on Earth. Although there is
+      no standard definition of the size of a landscape, they are
+      usually in the hundred or thousands of square miles.
+    </para>
+
+    <para id="para2">Species composition and population viability are
+    often affected by the structure of the landscape; for example, the
+    size, shape, and connectivity of individual patches of ecosystems
+    within the landscape (<cite target-id="noss"><cite-title>Noss, 1990</cite-title></cite>).
+    Conservation management should be directed at whole landscapes to
+    ensure the survival of species that range widely across different
+    ecosystems (<foreign>e.g.</foreign>, jaguars, quetzals, species of
+    plants that have widely dispersed pollen and seeds) (<cite><cite-title><link document="m12171" target-id="hunterb">Hunter, 2002: 83-85,
+    268-270</link></cite-title></cite>)<!--this ref in popdiv-->.
+    </para>
+
+    <para id="para3">Diversity within and between landscapes depends
+    on local and regional variations in environmental conditions, as
+    well as the species supported by those environments. Landscape
+    diversity is often incorporated into descriptions "<link document="m12155">ecoregions</link>,"
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="landscape">
+      <term>Landscape</term>
+      <meaning id="idp2071184">
+	a mosaic of heterogeneous land forms, vegetation types, and
+	land uses (<cite target-id="urban"><cite-title>Urban et al., 1987</cite-title></cite>)
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="urban">
+      <bib:article>
+	<bib:author>Urban, D.L., R.V. O'Neill and
+	H.H. Shugart</bib:author> <bib:title>Landscape
+	ecology</bib:title> <bib:journal>BioScience</bib:journal>
+	<bib:year>1987</bib:year> <bib:volume>37</bib:volume>
+	<bib:pages>119-127</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="noss">
+      <bib:article>
+	<bib:author>Noss, R.F.</bib:author>
+	<bib:title>
+	  Indicators for monitoring biodiversity: a hierarchical
+	  approach
+	</bib:title>
+	<bib:journal>Conservation Biology</bib:journal>
+	<bib:year>1990</bib:year> <bib:volume>4(4)</bib:volume>
+	<bib:pages>355-364</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="stein">
+      <bib:book>
+	<bib:author>Stein, B.A., L.S. Kutner, and
+	J.S. Adams</bib:author>
+	<bib:title>
+	  Precious heritage: the status of biodiversity in the United
+	  States
+	</bib:title>
+	<bib:publisher>Oxford University Press</bib:publisher>
+	<bib:year>2000</bib:year> <bib:address>Oxford,
+	U.K.</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+  
+</document>

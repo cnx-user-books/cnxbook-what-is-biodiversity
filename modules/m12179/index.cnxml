@@ -1,0 +1,477 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>What is Biodiversity? A comparison of spider communities</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e851bfab-1dc3-43eb-a309-b4c708a8388f</md:uuid>
+</metadata>
+
+  <content>
+    <section id="objective">
+      <title>Objectives</title>
+      <para id="para1">
+	To explore through classification of life forms the concept of
+	biological diversity as it occurs at various taxonomic levels.
+      </para>
+    </section>
+
+    <section id="procedure">
+      <title>Procedures</title>
+      <para id="para2">
+	Spiders are a highly species rich group of invertebrates that
+	exploit a wide variety of niches in virtually all the earth's
+	biomes. Some species of spiders build elaborate webs that
+	passively trap their prey whereas others are active predators
+	that ambush or pursue their prey. Given spiders' taxonomic
+	diversity as well as the variety of ecological niches breadth
+	along with the ease of catching them, spiders can represent
+	useful, fairly easily measured indicators of environmental
+	change and community level diversity.
+      </para>
+
+      <para id="para3">
+	This exercise focuses on classifying and analyzing spider
+	communities to explore the concept of biological diversity and
+	experience its application to decision making in biological
+	conservation. The exercise can be undertaken in three parts,
+	depending on your interest level.
+	<list id="level" list-type="labeled-item">
+	  <item><label>Level (1)</label>
+	     You will gain experience in
+	    classifying organisms by sorting a hypothetical collection
+	    of spiders from a forest patch and determining if the
+	    spider collection is adequate to accurately represent the
+	    overall diversity of spiders present in the forest patch.
+	  </item>
+	  <item><label>Level (2)</label>
+	     If you wish to explore further, you
+	    can sort spider collections made at four other forest
+	    patches in the same region and contrast spider communities
+	    in terms of their species richness, species diversity, and
+	    community similarity. You will apply this information to
+	    make decisions about the priority that should be given to
+	    protecting each forest patch in order to conserve the
+	    regional pool of spider diversity.
+	  </item>
+	  <item><label>Level (3)</label>
+	     If you wish to explore the concepts
+	    of biodiversity yet further, you will next take into
+	    account the evolutionary relationships among the families
+	    of spiders collected. This phylogenetic perspective will
+	    augment your decision making about priorities for patch
+	    protection by accounting for evolutionary distinctiveness
+	    in addition to diversity and distinctiveness at the
+	    community level.
+	  </item>
+	</list>
+
+	Once you have worked through these concepts and analyses you
+	will have a much enhanced familiarity with the subtleties of
+	what biological diversity is.
+      </para>
+    </section>
+
+    <section id="section3">
+      <title>Level 1:  Sorting and Classifying a Spider Collection and
+	Assessing its Comprehensiveness</title>
+      <para id="para4">
+	Obtain a paper copy of the spider collection for forest
+	patch "1." The spiders were captured by a biologist
+	traveling along transects through the patch and striking a
+	random series of 100 tree branches. All spiders dislodged
+	that fell onto an outstretched sheet were collected and
+	preserved in alcohol. They have since been spread out on a
+	tray for you to examine. The spider collection is
+	hypothetical but the species pictured are actual spiders
+	that occur in central Africa (illustrations used are from
+	<cite target-id="berland"><cite-title>Berland 1955</cite-title></cite>).
+      </para>
+
+      <para id="para5">
+	The next task is for you to sort and identify the
+	spiders. To do this you have to identify all the specimens
+	in the collection. To classify the spiders look for external
+	characters that all members of a particular group of spiders
+	have in common but that are not shared by other groups of
+	spiders. For example, leg length, hairiness, relative size
+	of body segments, or abdomen patterning and abdomen shape
+	all might be useful characters. Look for groups of
+	morphologically indistinguishable spiders, and describe
+	briefly the set of characters unique to each group. These
+	operational taxonomic units that you define will be
+	considered separate species. To assist you in classifying
+	these organisms, a diagram of key external morphological
+	characters of beetles is provided (<link target-id="figure1"/>). Note that most spider identification
+	depends on close examination of spider genitalia. For this
+	exercise, however, we will be examining gross external
+	characteristics of morphologically dissimilar species.
+
+	<figure id="figure1">
+	  <media id="idp7673584" alt=""><image src="../../media/spider1.png" mime-type="image/png"/></media>
+	  <caption>
+	    Basic external characteristics of spiders useful for
+	    identifying individuals to species.
+	  </caption>
+	</figure>
+      </para>
+
+      <para id="para6">
+	Assign each species a working name, preferably something
+	descriptive. For example, you might call a particular
+	species "spotted abdomen, very hairy" or "short legs, spiky
+	abdomen" Just remember that the more useful names will be
+	those that signify to you something unique about the
+	species. Construct a table listing each species, its
+	distinguishing characteristics, the name you have applied to
+	it, and the number of occurrences of the species in the
+	collection (<link target-id="figure3"/>).
+
+	<figure id="figure3">
+	  <media id="idp8909248" alt=""><image src="../../media/spider2.png" mime-type="image/png"/></media>
+	</figure>
+
+      </para>
+
+      <para id="para7">
+	Last, ask whether this collection adequately represents the
+	true diversity of spiders in the forest patch at the time of
+	collection. Were most of the species present sampled or were
+	many likely missed? This is always an important question to
+	ask to ensure that the sample was adequate and hence can be
+	legitimately contrasted among sites to, for example, assign
+	areas as low versus high diversity sites.
+      </para>
+
+      <para id="para8">
+	To do this you will perform a simple but informative
+	analysis that is standard practice for conservation
+	biologists who do biodiversity surveys. This analysis
+	involves constructing a so-called <term>collector's
+	  curve</term> (<cite target-id="colandcod"><cite-title>Colwell and Coddington
+	  1994</cite-title></cite>). These plot the cumulative number of species
+	observed (y-axis) against the cumulative number of
+	individuals classified (x-axis). The collector's curve is an
+	increasing function with a slope that will decrease as more
+	individuals are classified and as fewer species remain to be
+	identified (<link target-id="figure2"/>). If sampling stops
+	while the collector's curve is still rapidly increasing,
+	sampling is incomplete and many species likely remain
+	undetected. Alternatively, if the slope of the collector's
+	curve reaches zero (flattens out), sampling is likely more
+	than adequate as few to no new species remain undetected.
+
+	<figure id="figure2">
+	  <media id="idp8366912" alt=""><image src="../../media/spiderfig2.png" mime-type="image/png"/></media>
+	  <caption>
+	    An example of a collectors curve. Cumulative sample size
+	    represents the number of individuals classified. The
+	    cumulative number of taxa sampled refers to the number
+	    of new species detected.
+	  </caption>
+	</figure>
+      </para>
+
+      <para id="para9">
+	To construct the collector's curve for this spider
+	collection, choose a specimen within the collection at
+	random. This will be your first data point, such that 
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci>X</m:ci>
+	    <m:cn>1</m:cn>
+	  </m:apply>
+	</m:math>
+	and 
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci>Y</m:ci>
+	    <m:cn>1</m:cn>
+	  </m:apply>
+	</m:math> because after examining the first individual you
+	have also identified one new species! Next move consistently
+	in any direction to a new specimen and record whether it is
+	a member of a new species. In this next step, 
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci>X</m:ci>
+	    <m:cn>2</m:cn>
+	  </m:apply>
+	</m:math>, but <m:math><m:ci>Y</m:ci></m:math> may remain as
+	1 if the next individual is not of a new species or it may
+	change to 2 if the individual represents a new species
+	different from individual 1. Repeat this process until you
+	have proceeded through all 50 specimens and construct the
+	collector's curve from the data obtained (just plot
+	<m:math><m:ci>Y</m:ci></m:math> versus
+	<m:math><m:ci>X</m:ci></m:math>). Does the curve flatten
+	out?  If so, after how many individual spiders have been
+	collected? If not, is the curve still increasing? What can
+	you conclude from the shape of your collector's curve as to
+	whether the sample of spiders is an adequate
+	characterization of spider diversity at the site?
+      </para>
+    </section>
+
+    <section id="section4">
+      <title>
+	Level 2: Contrasting spider diversity among sites to provide
+	a basis for prioritizing conservation efforts</title>
+      <para id="para10">
+	In this part of the exercise you are provided with spider
+	collections from 4 other forest patches. The forest patches
+	have resulted from fragmentation of a once much larger,
+	continuous forest. You will use the spider diversity
+	information to prioritize efforts for the five different
+	forest patches (including the data from the first patch
+	which you have already classified). Here are the additional
+	spider collections: (See <link target-id="figure4"/>, <link target-id="figure5"/>, <link target-id="figure6"/>, and <link target-id="figure7"/>)
+
+	<figure id="figure4">
+	  <media id="idp9304688" alt=""><image src="../../media/spidersite2.png" mime-type="image/png"/></media>
+	</figure>
+
+	<figure id="figure5">
+	  <media id="idp8429312" alt=""><image src="../../media/spidersite3.png" mime-type="image/png"/></media>
+	</figure>
+
+	<figure id="figure6">
+	  <media id="idp9706304" alt=""><image src="../../media/spidersite4.png" mime-type="image/png"/></media>
+	</figure>
+
+	<figure id="figure7">
+	  <media id="idp10210768" alt=""><image src="../../media/spidersite5.png" mime-type="image/png"/></media>
+	</figure>
+      </para>
+
+      <para id="para11">
+	Again, tally how many individuals belonging to each species
+	occur in each site's spider collection (use your
+	classification of spiders completed for <link target-id="figure3">Site 1</link> during Level 1 of the
+	exercise). Specifically, construct a table of species (rows)
+	by site (columns). In the table's cells put the number of
+	individuals of each species you found in the collection from
+	the island. You can then analyze these data to generate
+	different measures of community characteristics to help you
+	to decide how to prioritize protection of the forest
+	patches. Recall that you need to rank the patches in terms
+	of where protection efforts should be applied, and you need
+	to provide a rationale for your ranking.
+      </para>
+
+      <para id="para12">
+	You will find it most useful to base your decisions on three
+	community characteristics: species richness and species
+	diversity within each forest patch, and the similarity of
+	spider communities between patches. Species richness is
+	simply the tally of different spider species that were
+	collected in a forest patch. Species diversity is a more
+	complex concept. We will use a standard index called <!--
+	good place for reference-->Simpson Reciprocal Index, 
+	<m:math>
+	  <m:apply>
+	    <m:divide/>
+	    <m:cn>1</m:cn>
+	    <m:ci>D</m:ci>
+	  </m:apply>
+	</m:math>
+	where <m:math><m:ci>D</m:ci></m:math> is calculated as
+	follows: 
+	<m:math display="block">
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci>D</m:ci>
+	    <m:apply>
+	      <m:sum/>
+	      <m:apply>
+		<m:power/>
+		<m:ci><m:msub>
+		    <m:mi>p</m:mi>
+		    <m:mi>i</m:mi>
+		  </m:msub></m:ci>
+		<m:cn>2</m:cn>
+	      </m:apply>
+	    </m:apply>
+	  </m:apply>
+	</m:math>where  
+	<m:math>
+	  <m:ci><m:msub>
+	      <m:mi>p</m:mi>
+	      <m:mi>i</m:mi>
+	    </m:msub></m:ci>
+	</m:math>
+	= the fractional abundance of the
+	<m:math>
+	  <m:ci><m:msup>
+	      <m:mi>i</m:mi>
+	      <m:mi>th</m:mi>
+	    </m:msup></m:ci>
+	</m:math>
+	species on an island. For example, if you had a sample of
+	two species with five individuals each,
+
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci>D</m:ci>
+	    <m:apply>
+	      <m:divide/>
+	      <m:cn>1</m:cn>
+	      <m:apply>
+		<m:plus/>
+		<m:apply>
+		  <m:power/>
+		  <m:cn>0.5</m:cn>
+		  <m:cn>2</m:cn>
+		</m:apply>
+		<m:apply>
+		  <m:power/>
+		  <m:cn>0.5</m:cn>
+		  <m:cn>2</m:cn>
+		</m:apply>
+	      </m:apply>
+	    </m:apply>
+	    <m:cn>2</m:cn>
+	  </m:apply>
+	</m:math>. The higher the value, the greater the
+	diversity. The maximum value is the number of species in the
+	sample, which occurs when all species contain an equal
+	number of individuals. Because this index not only reflects
+	the number of species present but also the relative
+	distribution of individuals among species within a community
+	it can reflect how balanced communities are in terms of how
+	individuals are distributed across species. As a result, two
+	communities may have precisely the same number of species,
+	and hence species richness, but substantially different
+	diversity measures if individuals in one community are
+	skewed toward a few of the species whereas individuals are
+	distributed more evenly in the other community.
+      </para>
+
+      <para id="para13">
+	Diversity is one thing, distinctiveness is quite
+	another. Thus another important perspective in ranking sites
+	is how different the communities are from one another. We
+	will use the simplest available measure of community
+	similarity, that is, the Jaccard coefficient of community
+	similarity, to contrast community distinctiveness between
+	all possible pairs of sites:
+	<m:math display="block">
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci><m:msub>
+		<m:mi>CC</m:mi>
+		<m:mi>j</m:mi>
+	      </m:msub></m:ci>
+	    <m:apply>
+	      <m:divide/>
+	      <m:ci>c</m:ci>
+	      <m:ci>S</m:ci>
+	    </m:apply>
+	  </m:apply>
+	</m:math>
+	where <m:math><m:ci>c</m:ci></m:math> is the number of
+	species common to both communities and
+	<m:math><m:ci>S</m:ci></m:math> is the total number of
+	species present in the two communities. For example, if one
+	site contains only 2 species and the other site 2 species,
+	one of which is held in common by both sites, the total
+	number of species present is 3 and the number shared is 1,
+	so 
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:cn type="rational">1<m:sep/>3</m:cn>
+	    <m:cn>33</m:cn>
+	  </m:apply>
+	</m:math>%. This index ranges from 0 (when no species are
+	found in common between communities) to 1 (when all species
+	are found in both communities). Calculate this index to
+	compare each pair of sites separately, that is, compare <link target-id="figure3">Site 1</link> with <link target-id="figure4">Site 2</link>, <link target-id="figure3">Site
+	1</link> with <link target-id="figure5">Site 3</link>, …,
+	<link target-id="figure6">Site 4</link> with <link target-id="figure7">Site 5</link> for 10 total comparisons. You
+	might find it useful to determine the average similarity of
+	one community to all the others, by averaging the
+	<m:math>
+	  <m:ci><m:msub>
+	      <m:mi>CC</m:mi>
+	      <m:mi>j</m:mi>
+	    </m:msub></m:ci>
+	</m:math>
+	values across each comparison a particular site is included.
+      </para>
+
+      <para id="para14">
+	Once you have made these calculations of diversity (species
+	richness and Simpson's Reciprocal Index) you can
+	tackle the primary question of the exercise: How should you
+	rank these sites for protection and why? Making an informed
+	decision requires reconciling your analysis with concepts of
+	biological diversity as it pertains to diversity and
+	distinctiveness. What do you recommend?
+      </para>
+    </section>
+
+    <section id="section5">
+      <title>Level 3:  Considering evolutionary distinctiveness</title>
+      <para id="para15">
+	When contrasting patterns of species diversity and community
+	distinctiveness, we typically treat each species as equally
+	important, yet are they? What if a species-poor area
+	actually is quite evolutionarily distinct from others?
+	Similarly, what if your most species-rich site is comprised
+	of a swarm of species that have only recently diverged from
+	one another and are quite similar to species present at
+	another site? These questions allude to issues of biological
+	diversity at higher taxonomic levels. Only by looking at the
+	underlying evolutionary relationships among species can we
+	gain this additional perspective. We have provided in <link target-id="figure8"/> a phylogeny of the spider families that
+	occur in your collections (a genuine phylogeny for these
+	families based in large part on <cite target-id="candl"><cite-title>Coddington and Levi 1991</cite-title></cite>). In brief, the
+	more closely related families (and species therein) are
+	located on more proximal branches within the
+	phylogeny. Based on the evolutionary relationships among
+	these families, will you modify any of the conclusions you
+	made on prioritizing forest patches for protection based on
+	patterns of species diversity alone? If so, why?
+
+	<figure id="figure8">
+	  <media id="idp6715856" alt=""><image src="../../media/spider6.png" mime-type="image/png"/></media>
+	</figure>
+      </para>
+    </section>
+  </content>
+
+  <bib:file>
+    <bib:entry id="berland">
+      <bib:book>
+	<bib:author>Berland, L.</bib:author>
+	<bib:title>Les arachnides de l'Afrique noire francaise</bib:title>
+	<bib:publisher>IFAN</bib:publisher>
+	<bib:year>1955</bib:year>
+	<bib:address>Dakar</bib:address>
+	<bib:note>p. 130</bib:note>
+      </bib:book>
+    </bib:entry>
+<!-- this entry was missing from original; needs to be fixed-->
+    <bib:entry id="colandcod">
+      <bib:book>
+	<bib:author>Colwell and J. A. Coddington</bib:author>
+	<bib:title/>
+	<bib:publisher/>
+	<bib:year>1994</bib:year>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="candl">
+      <bib:article>
+	<bib:author>Coddington, J. A. and H. W. Levi</bib:author>
+	<bib:title>Systematics and evolution of spiders (Araneae)</bib:title>
+	<bib:journal>Annual Review of Ecology and Systematics</bib:journal>
+	<bib:year>1991</bib:year>
+	<bib:volume>22</bib:volume>
+	<bib:pages>565-592</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+
+</document>

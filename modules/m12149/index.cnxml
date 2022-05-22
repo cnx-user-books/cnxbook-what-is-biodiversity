@@ -1,0 +1,150 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/"> <title>Biogeographic
+  Diversity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>725c1df9-d7e9-42a7-811c-b0e8169644c0</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      <term target-id="biogeography">Biogeography</term> is "the study of
+      the distribution of organisms in space and through
+      time". Analyses of the patterns of biogeography can be divided
+      into the two fields of historical biogeography and ecological
+      biogeography (<cite target-id="wiley"><cite-title>Wiley, 1981</cite-title></cite>).
+    </para>
+
+    <para id="para2">
+      <term target-id="histbiogeo">Historical biogeography</term> examines
+      past events in the geological history of the Earth and uses
+      these to explain patterns in the spatial and temporal
+      distributions of organisms (usually species or higher taxonomic
+      ranks). For example, an explanation of the distribution of
+      closely related groups of organisms in Africa and South America
+      is based on the understanding that these two land masses were
+      formerly connected as part of a single land mass (Gondwana). The
+      ancestors of those related species which are now found in Africa
+      and South America are assumed to have had a cosmopolitan
+      distribution across both continents when they were
+      connected. Following the separation of the continents by the
+      process of plate tectonics, the isolated populations are assumed
+      to have undergone <term target-id="all">allopatric speciation</term>
+      (<foreign>i.e.</foreign>, speciation achieved between
+      populations that are completely geographically separate). This
+      separation resulted in the closely related groups of species on
+      the now separate continents.  Clearly, an understanding of the
+      systematics of the groups of organisms (<foreign>i.e.</foreign>,
+      the evolutionary relationships that exists between the species)
+      is an integral part of these historical biogeographic
+      analyses.</para>
+
+    <para id="para3">
+      The same historical biogeographic hypotheses can be applied to
+      the spatial and temporal distributions of marine biota. For
+      example, the biogeography of fishes from different ocean basins
+      has been shown to be associated with the geological evolution of
+      these ocean basins (see <cite target-id="sti"><cite-title>Stiassny and Harrison,
+      2000</cite-title></cite> for examples with references). However, we cannot
+      assume that all existing distribution patterns are solely the
+      product of these past geological processes. It is evident, for
+      example, that the existing marine fauna of the Mediterranean is
+      a product of the complex geological history of this marine
+      basin, involving separation from the Indian and Atlantic Oceans,
+      periods of extensive desiccation followed by flooding and
+      recolonization from the Atlantic (<cite target-id="por"><cite-title>Por,
+      1989</cite-title></cite>). However, there is also good evidence that the
+      eastern end of the Mediterranean has been colonized more
+      recently by species that have dispersed from the Red Sea via the
+      Suez canal. </para>
+
+    <para id="para4">
+      Thus, the field of <term target-id="ecobiogeo">ecological
+	biogeography</term> first examines the dispersal of organisms
+	(usually individuals or populations) and the mechanisms that
+	influence this dispersal, and then uses this information to
+	explain the spatial distribution patterns of these
+	organisms. For further discussion see the module on
+	"Biogeography" and see <cite target-id="wiley"><cite-title>Wiley, 1981</cite-title></cite>,
+	and <cite target-id="handp"><cite-title>Humphries and Parenti,
+	1999</cite-title></cite>.
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="biogeography">
+      <term>biogeography</term>
+      <meaning id="idm69888">
+	the study of the distribution of organisms in space and
+	through time
+      </meaning>
+    </definition>
+    <definition id="all">
+      <term>allopatric speciation</term> <meaning id="idm66656">speciation achieved
+      between populations that are completely geographically separated
+      (their ranges do not overlap or are not contiguous).</meaning>
+    </definition>
+    <definition id="histbiogeo">
+      <term>Historical biogeography</term>
+      <meaning id="idm8075472">
+	the study of events in the geological history of the Earth and
+	their use to explain patterns in the spatial and temporal
+	distributions of organisms (usually species or higher
+	taxonomic ranks)
+      </meaning>
+    </definition>
+
+    <definition id="ecobiogeo">
+      <term>Ecological biogeography:</term>
+      <meaning id="idp1251792">
+	the study of the dispersal of organisms (usually individuals
+	or populations) and the mechanisms that influence this
+	dispersal, and the use of this information to explain spatial
+	distribution patterns
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="sti">
+      <bib:article>
+        <bib:author>Stiassny, M.L.J. and I.J. Harrison</bib:author>
+        <bib:title>Notes on a small collection of fishes from the Parc
+        National de Marojejy, northeastern Madagascar, with a
+        description of a new species of the endemic genus Bedotia
+        (Atherinomorpha: Bedotiidae)</bib:title>
+        <bib:journal>Fieldiana Zoology</bib:journal>
+        <bib:year>2000</bib:year> <bib:volume>97(1510)</bib:volume>
+        <bib:pages>143-156</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="wiley">
+      <bib:book>
+	<bib:author>Wiley, E.O.</bib:author>
+	<bib:title>
+	  Phylogenetics: the theory and practice of phylogenetic
+	  systematics
+	</bib:title>
+	<bib:publisher>John Wiley and Sons</bib:publisher>
+	<bib:year>1981</bib:year> <bib:address>New York, New York,
+	U.S.A</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="handp">
+      <bib:book>
+	<bib:author>Humphries, C.J. and L.R. Parenti</bib:author>
+	<bib:title>
+	  Cladistic biogeography: interpreting patterns of plant and
+	  animal distributions
+	</bib:title>
+	<bib:publisher>Oxford University Press</bib:publisher>
+	<bib:year>1999</bib:year> <bib:address>Oxford,
+	U.K.</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="por">
+      <bib:article>
+        <bib:author>Por, F.D.</bib:author> <bib:title>The legacy of
+        Tethys: an aquatic biogeography of the Levant.</bib:title>
+        <bib:journal>Monographiae Biologicae</bib:journal>
+        <bib:year>1989</bib:year> <bib:volume>13(6)</bib:volume>
+        <bib:pages>75-86</bib:pages> </bib:article> </bib:entry>
+        </bib:file> </document>

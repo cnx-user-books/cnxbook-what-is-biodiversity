@@ -1,0 +1,141 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Introduction to the Biodiversity Hierarchy</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>cbc4d020-97a4-4736-99b5-8b69561b1034</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      To effectively conserve biodiversity, we need to be able to
+      define what we want to conserve, determine where it currently
+      occurs, identify strategies to help conserve it, and track over
+      time whether or not these strategies are working. The first of
+      these items, defining what we want to conserve, is complicated
+      by the remarkable diversity of the organisms themselves. This is
+      a product of the <term target-id="geneticdiversity">genetic
+	diversity</term> of the organisms, that is, variation in the DNA 
+      (deoxyribonucleic acid) that makes up the genes of the
+      organisms.
+    </para>
+    
+    <para id="para2">
+      <list id="diversity">
+	<title>Genetic diversity among organisms exists at the
+	following different levels:</title>
+	<item>within a single individual;</item>
+	<item>between different individuals of a single population;</item>
+	<item>between different populations of a single species
+	(<term>population diversity</term>);</item>
+	<item>between different species (<term>species diversity</term>).</item>
+      </list>
+    </para>
+
+    <para id="para3">
+      It can be difficult, in some cases, to establish the boundaries
+      between these levels of diversity. For example, it may be
+      difficult to interpret whether variation between groups of
+      individuals represents diversity between different species, or
+      represents diversity only between different populations of the
+      same species. Nevertheless, in general terms, these levels of
+      genetic diversity form a convenient hierarchy for describing the
+      overall diversity of organisms on Earth.
+    </para>
+
+    <para id="para4">
+      Similarly, the functional and spatial aspects of biodiversity can
+      also be discussed at a number of different levels; for example,
+      diversity within or between 
+      <term target-id="communities">communities</term>, 
+      <term target-id="ecosystems">ecosystems</term>, 
+      <term target-id="landscapes">landscapes</term>, 
+      biogeographical regions, and <term target-id="ecoregions">ecoregions</term>.
+    </para>
+  </content>
+  
+  <glossary>
+    <definition id="geneticdiversity">
+      <term>Genetic Diversity</term>
+      <meaning id="idm2734576">
+	refers to any variation in the nucleotides, genes, chromosomes, 
+        or whole genomes of organisms.
+      </meaning>
+    </definition>
+    <definition id="communities">
+      <term>Community</term>
+      <meaning id="idm10277664">
+	the populations of different species that naturally occur and
+	interact in a particular environment.
+      </meaning>
+    </definition>
+    <definition id="ecosystems">
+      <term>Ecosystem</term>
+      <meaning id="idm10504560">
+	a community plus the physical environment that it occupies at
+	a given time.
+      </meaning>
+    </definition>
+    <definition id="landscapes">
+      <term>Landscapes</term>
+      <meaning id="idm2541840">
+	a mosaic of heterogeneous land forms, vegetation types, and
+	land uses (<cite target-id="urban"><cite-title>Urban et al., 1987</cite-title></cite>).
+      </meaning>
+    </definition>
+    <definition id="ecoregions">
+      <term>Ecoregions</term>
+      <meaning id="idm2666640">
+	a relatively large unit of land or water containing a
+	geographically distinct assemblage of species, natural
+	communities, and environmental conditions (<cite target-id="wwf"><cite-title>WWF, 1999</cite-title></cite>). The ecosystems within an
+	ecoregion have certain distinct characters in common (<cite target-id="bailey"><cite-title>Bailey, 1998a</cite-title></cite>).
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="bailey">
+      <bib:incollection>
+	<bib:author>Bailey, R. G.</bib:author>
+	<bib:title>Ecoregions: map of North America. Miscellaneous
+	Publication 1548.</bib:title>
+	<bib:booktitle>
+	  U.S Department of Agriculture, Forest Services
+	</bib:booktitle>
+	<bib:publisher/>
+	<bib:year>1998</bib:year>
+	<bib:editor/>
+	<bib:pages>Map 1:15,000,000</bib:pages>
+	<bib:address/>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="urban">
+      <bib:incollection>
+	<bib:author>Urban,D.L., R.V. O'Neill and H.H Shugart</bib:author>
+	<bib:title>Landscape Ecology</bib:title>
+	<bib:booktitle>
+	  BioScience
+	</bib:booktitle>
+	<bib:publisher/>
+	<bib:year>1987</bib:year>
+	<bib:editor/>
+	<bib:pages>37:119-127</bib:pages>
+	<bib:address/>
+      </bib:incollection>
+    </bib:entry>
+    
+    <bib:entry id="wwf">
+      <bib:incollection>
+	<bib:author>Worldwide Fund for Nature</bib:author>
+	<bib:title>WWF in action: Ecoregion-based conservation</bib:title>
+	<bib:booktitle>
+	  Global Conservation Programme 1999/2000
+	</bib:booktitle>
+	<bib:publisher/>
+	<bib:year>1999</bib:year>
+	<bib:editor/>
+	<bib:pages/>
+	<bib:address>(accessed June 19, 2002)</bib:address>
+      </bib:incollection>
+    </bib:entry>
+  </bib:file>
+</document>
